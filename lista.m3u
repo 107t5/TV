@@ -15,8 +15,6 @@ https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
 https://dlhd.dad/watch.php?id=868
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Altro",ANIMAL PLANET
-https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
@@ -292,6 +290,8 @@ https://dlhd.dad/watch.php?id=851
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
+#EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3
+https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c
 #EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (D)
 https://dlhd.dad/watch.php?id=852
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (MPD)
@@ -380,6 +380,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&force
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
+https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
@@ -396,6 +398,8 @@ https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
 https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
+#EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4
+https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="rete.4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
@@ -443,6 +447,8 @@ https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION
 https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (BACKUP)
+https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (D)
 https://dlhd.dad/watch.php?id=861
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION
@@ -727,7 +733,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="fifau20wcmoroccou20vsfranceu20" tvg-name="Soccer | FIFA U20 WC : Morocco U20 vs France U20 (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Morocco U20_vs_France U20.png" group-title="Eventi Live DLHD",Soccer | FIFA U20 WC : Morocco U20 vs France U20 (22:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaampningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live DLHD",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds (11:30)
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaampningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds (11:30)" tvg-logo="https://logodix.com/logo/760985.png" group-title="Eventi Live DLHD",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA &amp; Ningbo-WTA Early Rounds (11:30)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="seriea1womenagilvolleynovaravsfenerachieri" tvg-name="Volleyball | Serie A1 Women : Agil Volley Novara vs. Fenera Chieri (19:15)" tvg-logo="https://www.chieri76.it/wp-content/uploads/2024/09/Logo-RMFC76.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Agil Volley Novara vs. Fenera Chieri (19:15)
