@@ -8,7 +8,7 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="italyserieawomennapolivsroma" tvg-name="All Soccer Events | Italy - Serie A (women) : Napoli vs Roma (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A (women) : Napoli vs Roma (12:30)
 https://dlhd.dad/watch.php?id=55
 
-#EXTINF:-1 tvg-id="italyserieccasertanavssiracusa" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Siracusa (12:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/01/Siracusa-Calcio-Logo-Vector.svg-.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Siracusa (12:30)
+#EXTINF:-1 tvg-id="italyserieccasertanavssiracusa" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Siracusa (12:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Siracusa (12:30)
 https://dlhd.dad/watch.php?id=5
 
 #EXTINF:-1 tvg-id="italyserieccampobassovsternana" tvg-name="All Soccer Events | Italy - Serie C : Campobasso vs Ternana (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Campobasso_vs_Ternana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Campobasso vs Ternana (12:30)
@@ -68,7 +68,7 @@ https://dlhd.dad/watch.php?id=159
 #EXTINF:-1 tvg-id="italyserieclumezzanevstrento" tvg-name="All Soccer Events | Italy - Serie C : Lumezzane vs Trento (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lumezzane_vs_Trento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lumezzane vs Trento (17:30)
 https://dlhd.dad/watch.php?id=160
 
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavspropatria" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Pro Patria (17:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/780354.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Pro Patria (17:30)
+#EXTINF:-1 tvg-id="italyseriecvirtusveronavspropatria" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Pro Patria (17:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Pro Patria (17:30)
 https://dlhd.dad/watch.php?id=161
 
 #EXTINF:-1 tvg-id="italyseriecprovercellivsgianaerminio" tvg-name="All Soccer Events | Italy - Serie C : Pro Vercelli vs Giana Erminio (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Giana Erminio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Vercelli vs Giana Erminio (17:30)
@@ -77,7 +77,7 @@ https://dlhd.dad/watch.php?id=27
 #EXTINF:-1 tvg-id="italyseriecpinetovsperugia" tvg-name="All Soccer Events | Italy - Serie C : Pineto vs Perugia (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pineto_vs_Perugia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pineto vs Perugia (17:30)
 https://dlhd.dad/watch.php?id=28
 
-#EXTINF:-1 tvg-id="italyseriecaudacecerignolavscavese" tvg-name="All Soccer Events | Italy - Serie C : Audace Cerignola vs Cavese (17:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/720350.png?v=1" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Audace Cerignola vs Cavese (17:30)
+#EXTINF:-1 tvg-id="italyseriecaudacecerignolavscavese" tvg-name="All Soccer Events | Italy - Serie C : Audace Cerignola vs Cavese (17:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Audace Cerignola vs Cavese (17:30)
 https://dlhd.dad/watch.php?id=162
 
 #EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsmanchesterunited" tvg-name="All Soccer Events | England - Premier League : Liverpool vs Manchester United (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Manchester United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Liverpool vs Manchester United (17:30)
@@ -119,10 +119,7 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="almatyatpsinglesfinal" tvg-name="Tennis | Almaty-ATP Singles Final (11:30)" tvg-logo="https://static.flashscore.com/res/image/data/trg9tNDO-SlbNac1U.png" group-title="Eventi Live DLHD",Tennis | Almaty-ATP Singles Final (11:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="stockholmatpampbrusselsatpfinals" tvg-name="Tennis | Stockholm-ATP &amp; Brussels-ATP Finals (15:00)" tvg-logo="https://assets.stickpng.com/thumbs/626656521e92f9aac65b5ba6.png" group-title="Eventi Live DLHD",Tennis | Stockholm-ATP &amp; Brussels-ATP Finals (15:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="baselatpviennaatptokyowtaampguangzhouwtaearlyrounds" tvg-name="Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (03:30)" tvg-logo="https://logodix.com/logo/760985.png" group-title="Eventi Live DLHD",Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (03:30)
+#EXTINF:-1 tvg-id="stockholmatpampbrusselsatpfinals" tvg-name="Tennis | Stockholm-ATP &amp; Brussels-ATP Finals (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/1/3/atp-tour-logo-png_seeklogo-13263.png" group-title="Eventi Live DLHD",Tennis | Stockholm-ATP &amp; Brussels-ATP Finals (15:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="motogpaustraliangrandprixrace" tvg-name="Motorsport | MotoGP : Australian Grand Prix, Race (05:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Australian Grand Prix, Race (05:00)
@@ -149,6 +146,6 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="top14toulonvsracing92" tvg-name="Rugby Union | Top 14 : Toulon vs Racing 92 (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Toulon_vs_Racing 92.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Toulon vs Racing 92 (21:05)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="hinzenbachhs90summergrandprixmen" tvg-name="Ski Jumping | Hinzenbach | HS 90 Summer Grand Prix | Men (14:10)" tvg-logo="https://fc-hinzenbach.at/wp-content/uploads/2018/08/Croatia-Linz.png" group-title="Eventi Live DLHD",Ski Jumping | Hinzenbach | HS 90 Summer Grand Prix | Men (14:10)
+#EXTINF:-1 tvg-id="hinzenbachhs90summergrandprixmen" tvg-name="Ski Jumping | Hinzenbach | HS 90 Summer Grand Prix | Men (14:10)" tvg-logo="https://fc-hinzenbach.at/wp-content/uploads/2019/03/Neustadt.png" group-title="Eventi Live DLHD",Ski Jumping | Hinzenbach | HS 90 Summer Grand Prix | Men (14:10)
 https://dlhd.dad/watch.php?id=878
 
