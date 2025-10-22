@@ -188,6 +188,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -203,8 +205,6 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://dlhd.dad/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -396,8 +396,6 @@ https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
 https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
-#EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4
-https://vavoo.to/vavoo-iptv/play/22357320045f329c720096
 #EXTINF:-1 tvg-id="rete.4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
@@ -461,8 +459,6 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -764,10 +760,10 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="europeuefachampionsleaguemonacovstottenhamhotspur" tvg-name="All Soccer Events | Europe - UEFA Champions League : Monaco vs Tottenham Hotspur (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monaco_vs_Tottenham Hotspur.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Monaco vs Tottenham Hotspur (21:00)
 https://dlhd.dad/watch.php?id=30
 
-#EXTINF:-1 tvg-id="baselatpviennaatptokyowtaampguangzhouwtaearlyrounds" tvg-name="Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (07:00)" tvg-logo="https://logodix.com/logo/760985.png" group-title="Eventi Live DLHD",Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (07:00)
+#EXTINF:-1 tvg-id="baselatpviennaatptokyowtaampguangzhouwtaearlyrounds" tvg-name="Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (07:00)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live DLHD",Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds (07:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="baselatpviennaatpampguangzhouwtaearlyrounds" tvg-name="Tennis | Basel-ATP, Vienna-ATP &amp; Guangzhou-WTA Early Rounds (15:00)" tvg-logo="https://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live DLHD",Tennis | Basel-ATP, Vienna-ATP &amp; Guangzhou-WTA Early Rounds (15:00)
+#EXTINF:-1 tvg-id="baselatpviennaatpampguangzhouwtaearlyrounds" tvg-name="Tennis | Basel-ATP, Vienna-ATP &amp; Guangzhou-WTA Early Rounds (15:00)" tvg-logo="http://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live DLHD",Tennis | Basel-ATP, Vienna-ATP &amp; Guangzhou-WTA Early Rounds (15:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="northernirelandopenround2" tvg-name="Snooker | Northern Ireland Open | Round 2 (14:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ebd2f956638154bc806b022/1687883423506-BE1VRULAP1KG6C7KII3G/G%26S+Logos352.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open | Round 2 (14:00)
@@ -776,7 +772,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="northernirelandopenround2" tvg-name="Snooker | Northern Ireland Open | Round 2 (20:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ebd2f956638154bc806b022/1687883423506-BE1VRULAP1KG6C7KII3G/G%26S+Logos352.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open | Round 2 (20:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday1" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)" tvg-logo="https://d3l5vala1x2h4r.cloudfront.net/1670011485158_Main Logo w: Text (Black)-comp.png" group-title="Eventi Live DLHD",Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)
+#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday1" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)" tvg-logo="https://day-one.co/wp-content/uploads/2021/06/Logos-Day-One-Juillet-2023-1.png" group-title="Eventi Live DLHD",Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="italyseriea1womenpallavoloscandiccivsvolleymonza" tvg-name="Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs Volley Monza (20:30)" tvg-logo="https://store.verovolley.com/store/wp-content/uploads/2022/11/2022_Abbonati_Magliette_05-Modificata.png" group-title="Eventi Live DLHD",Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs Volley Monza (20:30)
