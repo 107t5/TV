@@ -459,6 +459,8 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -772,7 +774,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="northernirelandopenround2" tvg-name="Snooker | Northern Ireland Open | Round 2 (20:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ebd2f956638154bc806b022/1687883423506-BE1VRULAP1KG6C7KII3G/G%26S+Logos352.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open | Round 2 (20:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday1" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)" tvg-logo="https://day-one.co/wp-content/uploads/2021/06/Logos-Day-One-Juillet-2023-1.png" group-title="Eventi Live DLHD",Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)
+#EXTINF:-1 tvg-id="ucitrackcyclingworldchampionshipschileday1" tvg-name="Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/cutout/qebpdq1736281900.png" group-title="Eventi Live DLHD",Cycling | UCI Track Cycling World Championships Chile | Day 1 (23:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="italyseriea1womenpallavoloscandiccivsvolleymonza" tvg-name="Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs Volley Monza (20:30)" tvg-logo="https://store.verovolley.com/store/wp-content/uploads/2022/11/2022_Abbonati_Magliette_05-Modificata.png" group-title="Eventi Live DLHD",Volleyball | Italy Serie A1 Women : Pallavolo Scandicci vs Volley Monza (20:30)
