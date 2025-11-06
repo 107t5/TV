@@ -19,8 +19,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -168,12 +166,12 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
+#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
+https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://dlhd.dad/watch.php?id=854
 
@@ -647,8 +645,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
-#EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
-https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
@@ -761,16 +757,16 @@ https://dlhd.dad/watch.php?id=167
 #EXTINF:-1 tvg-id="uefaeuropaleagueastonvillavsmaccabitelaviv" tvg-name="Soccer | UEFA Europa League : Aston Villa vs Maccabi Tel Aviv (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Maccabi Tel Aviv.png" group-title="Eventi Live DLHD",Soccer | UEFA Europa League : Aston Villa vs Maccabi Tel Aviv (22:00)
 https://dlhd.dad/watch.php?id=18
 
-#EXTINF:-1 tvg-id="wtatourfinalsriyadh" tvg-name="Tennis | WTA Tour Finals Riyadh (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/OlRjh4kD-EVoZMSig.png" group-title="Eventi Live DLHD",Tennis | WTA Tour Finals Riyadh (14:00)
+#EXTINF:-1 tvg-id="wtatourfinalsriyadh" tvg-name="Tennis | WTA Tour Finals Riyadh (14:00)" tvg-logo="https://dazngroup.com/wp-content/uploads/2024/01/WTA_Novo.png" group-title="Eventi Live DLHD",Tennis | WTA Tour Finals Riyadh (14:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (22:00)" tvg-logo="https://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (22:00)
+#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (22:00)" tvg-logo="https://dazngroup.com/wp-content/uploads/2024/01/WTA_Novo.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (22:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="internationalchampionshipquarterfinal" tvg-name="Snooker | International Championship | Quarter-Final (09:00)" tvg-logo="https://kenkenpuzzles.in/wp-content/uploads/2018/04/logo.png" group-title="Eventi Live DLHD",Snooker | International Championship | Quarter-Final (09:00)
+#EXTINF:-1 tvg-id="internationalchampionshipquarterfinal" tvg-name="Snooker | International Championship | Quarter-Final (09:00)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Quarter-Final (09:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="internationalchampionshipquarterfinal" tvg-name="Snooker | International Championship | Quarter-Final (13:30)" tvg-logo="https://www.usasf.net/EA International Logo -1-.png" group-title="Eventi Live DLHD",Snooker | International Championship | Quarter-Final (13:30)
+#EXTINF:-1 tvg-id="internationalchampionshipquarterfinal" tvg-name="Snooker | International Championship | Quarter-Final (13:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Quarter-Final (13:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="euroleaguedubaibasketballvshapoeltelaviv" tvg-name="Basketball | Euroleague : Dubai Basketball vs Hapoel Tel Aviv (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dubai Basketball_vs_Hapoel Tel Aviv.png" group-title="Eventi Live DLHD",Basketball | Euroleague : Dubai Basketball vs Hapoel Tel Aviv (20:00)
