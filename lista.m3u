@@ -168,8 +168,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -324,8 +322,6 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (MPD)
@@ -380,18 +376,10 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
-https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
-https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
-https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
@@ -409,8 +397,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro",RETE ORO
 https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RETE SOLE
-https://vavoo.to/vavoo-iptv/play/36929275131676477efa1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.retetvitalia.it/news/wp-content/uploads/2019/07/cropped-RTI-L.png" group-title="Altro",RETE TV ITALIA
 https://vavoo.to/vavoo-iptv/play/413105501853266fc8e1b9
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="Altro",RETE VENETA
@@ -758,19 +744,10 @@ https://dlhd.dad/watch.php?id=16
 #EXTINF:-1 tvg-id="italyserieapisavscremonese" tvg-name="Soccer | Italy - Serie A : Pisa vs Cremonese (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Pisa vs Cremonese (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="wtafinalssemifinalsathensatpampmetzatpsemfinals" tvg-name="Tennis | WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals (14:30)" tvg-logo="https://dazngroup.com/wp-content/uploads/2024/01/WTA_Novo.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals (14:30)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="moto3greekgrandprixofportugal" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Portugal (15:10)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/04/270420231682629297moto_victory_mrx200_arizona_arena_2023_foto01.png" group-title="Eventi Live DLHD",Motorsport | Moto 3 : Greek Grand Prix of Portugal (15:10)
-https://dlhd.dad/watch.php?id=575
-
 #EXTINF:-1 tvg-id="formula1msccruisessaopaulogppractice1" tvg-name="Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Practice 1 (16:30)" tvg-logo="https://www.logotypes101.com/logos/17/672213E0F8785058DA3D07DFDB744D00/f1_logo.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Sao Paulo GP - Practice 1 (16:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofportugal" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Portugal (16:00)" tvg-logo="https://web2.fireboldweb.com/wp-content/uploads/2023/04/270420231682629297moto_victory_mrx200_arizona_arena_2023_foto01.png" group-title="Eventi Live DLHD",Motorsport | Moto 2 : Greek Grand Prix of Portugal (16:00)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugal" tvg-name="Motorsport | MotoGP Greek Grand Prix of Portugal (17:00)" tvg-logo="https://greekbackgammon-grand-prix.opax.gr/wp-content/uploads/2024/09/wbgf-logo-website-header3.png" group-title="Eventi Live DLHD",Motorsport | MotoGP Greek Grand Prix of Portugal (17:00)
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofportugal" tvg-name="Motorsport | MotoGP Greek Grand Prix of Portugal (17:00)" tvg-logo="https://media.ducati.com/dam/_JRB9358_UC494245_Preview.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP Greek Grand Prix of Portugal (17:00)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="motoeround7portugalqualifying" tvg-name="Motorsport | MotoE | Round 7 | Portugal Qualifying (18:15)" tvg-logo="https://motoe-cz.s18.cdn-upgates.com/_cache/2/a/2afb0b89abac8aedb4ee7b4383b4c813-v63bec87203ced-servis.png" group-title="Eventi Live DLHD",Motorsport | MotoE | Round 7 | Portugal Qualifying (18:15)
@@ -783,8 +760,6 @@ https://dlhd.dad/watch.php?id=577
 https://dlhd.dad/watch.php?id=879
 
 
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Formula 1: Sao Paulo Grand Prix: Practice 1 15:00
-https://sportzonline.live/channels/hd/hd8.php
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Formula 1: Sao Paulo Grand Prix: Sprint Qualifying 19:00
 https://sportzonline.live/channels/hd/hd8.php
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Spezia x Bari 1908 20:30
