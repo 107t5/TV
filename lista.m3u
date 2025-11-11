@@ -186,6 +186,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -413,6 +415,8 @@ https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
@@ -457,8 +461,6 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -724,16 +726,16 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday3" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)" tvg-logo="https://dazngroup.com/wp-content/uploads/2025/01/FCWC-Trophy-Tour-1024x682.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)
+#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday3" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240310/original/pngtree-2025-golden-3d-letters-happy-new-yea-png-image_14556016.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (21:30)
+#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://thumbs.dreamstime.com/z/adenosine-triphosphate-atp-structural-formula-chemical-formula-molecular-model-80394332.jpg" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (21:30)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="championsleaguetrapanivsbneiherzliya" tvg-name="Basketball | Champions League : Trapani vs Bnei Herzliya (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani_vs_Bnei Herzliya.png" group-title="Eventi Live DLHD",Basketball | Champions League : Trapani vs Bnei Herzliya (21:30)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="telenetsuperprestigenieljaarmarktcrosss" tvg-name="Cycling | Telenet Superprestige Niel - Jaarmarktcrosss (14:30)" tvg-logo="https://companieslogo.com/img/orig/TNET.BR-f6958bf4.png?download=true" group-title="Eventi Live DLHD",Cycling | Telenet Superprestige Niel - Jaarmarktcrosss (14:30)
+#EXTINF:-1 tvg-id="telenetsuperprestigenieljaarmarktcrosss" tvg-name="Cycling | Telenet Superprestige Niel - Jaarmarktcrosss (14:30)" tvg-logo="https://freight.cargo.site/i/d5a6606db6ac28646c7ace584c4d9e1ec68fb94fd230d14d2b60d3033f6721f1/NIEL-logo_IG.png" group-title="Eventi Live DLHD",Cycling | Telenet Superprestige Niel - Jaarmarktcrosss (14:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="championsleagueproreccovsvkjadransplit" tvg-name="Waterpolo | Champions League : Pro Recco vs. Vk Jadran Split (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Recco_vs_Vk Jadran Split.png" group-title="Eventi Live DLHD",Waterpolo | Champions League : Pro Recco vs. Vk Jadran Split (21:30)
