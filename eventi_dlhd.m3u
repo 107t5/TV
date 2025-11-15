@@ -56,19 +56,13 @@ https://dlhd.dad/watch.php?id=173
 #EXTINF:-1 tvg-id="italyseriecsambenedettesevsternana" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Ternana (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sambenedettese_vs_Ternana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sambenedettese vs Ternana (21:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="worldcupqualifyingswitzerlandvssweden" tvg-name="All Soccer Events | World Cup Qualifying : Switzerland vs Sweden (21:45)" tvg-logo="https://www.footballkitarchive.com/static/logos/kgkJcQXeT2BNVsC/sweden-2003-2017-logo.png" group-title="Eventi Live DLHD",All Soccer Events | World Cup Qualifying : Switzerland vs Sweden (21:45)
+#EXTINF:-1 tvg-id="worldcupqualifyingswitzerlandvssweden" tvg-name="All Soccer Events | World Cup Qualifying : Switzerland vs Sweden (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland_vs_Sweden.png" group-title="Eventi Live DLHD",All Soccer Events | World Cup Qualifying : Switzerland vs Sweden (21:45)
 https://dlhd.dad/watch.php?id=175
 
 #EXTINF:-1 tvg-id="nittoatpfinalssemifinal" tvg-name="Tennis | Nitto ATP Finals Semi-final (15:00)" tvg-logo="https://tickets.nittoatpfinals.com/img/lang/es.png" group-title="Eventi Live DLHD",Tennis | Nitto ATP Finals Semi-final (15:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpvalenciagrandprixpractice2" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Practice 2 (09:30)" tvg-logo="https://www.svgeurope.org/wp-content/blogs.dir/17/files/2016/10/FR-MotoGP-1024x683.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Practice 2 (09:30)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto3valenciagrandprixpractice2" tvg-name="Motorsport | Moto3 : Valencia Grand Prix Practice 2 (09:35)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Valencia Grand Prix Practice 2 (09:35)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto2valenciagrandprixpractice2" tvg-name="Motorsport | Moto2 : Valencia Grand Prix Practice 2 (11:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/289/666/original/zoom-logo-transparent-free-png.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Valencia Grand Prix Practice 2 (11:45)
+#EXTINF:-1 tvg-id="moto2valenciagrandprixpractice2" tvg-name="Motorsport | Moto2 : Valencia Grand Prix Practice 2 (11:45)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Valencia Grand Prix Practice 2 (11:45)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="moto3valenciagrandprixqualifying" tvg-name="Motorsport | Moto3 : Valencia Grand Prix Qualifying (13:45)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Valencia Grand Prix Qualifying (13:45)
@@ -92,7 +86,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="isugrandprixunitedstatesicedanceshortprogrammixed" tvg-name="Ice Skating | ISU Grand Prix | United States Ice Dance | Short Program | Mixed (21:00)" tvg-logo="https://www.onlinedegree.com/wp-content/uploads/2017/01/illinois_state_university_seal-svg.png" group-title="Eventi Live DLHD",Ice Skating | ISU Grand Prix | United States Ice Dance | Short Program | Mixed (21:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="grandprixunitedstatesfreeroutinemixedpairs" tvg-name="Ice Skating | Grand Prix | United States Free routine | Mixed Pairs (22:30)" tvg-logo="https://oemusedautoparts1.com/cdn/shop/files/2015-DODGE-GRAND_CARAVAN-1012977-01.png?v=1763027523" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | United States Free routine | Mixed Pairs (22:30)
+#EXTINF:-1 tvg-id="grandprixunitedstatesfreeroutinemixedpairs" tvg-name="Ice Skating | Grand Prix | United States Free routine | Mixed Pairs (22:30)" tvg-logo="http://chucklohr.com/flagmove.gif" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | United States Free routine | Mixed Pairs (22:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="friendlyinternationalitalyvssouthafrica" tvg-name="Rugby Union | Friendly International : Italy vs South Africa (14:00)" tvg-logo="https://www.myglobalviewpoint.com/wp-content/uploads/2023/06/venice.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Italy vs South Africa (14:00)
@@ -111,9 +105,6 @@ https://dlhd.dad/watch.php?id=462
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="t100triathlonworldtourdubait100menwomenstation8" tvg-name="Triathlon | T100 Triathlon World Tour | Dubai T100 Men / Women | Station 8 (21:15)" tvg-logo="https://cdn-1.sportstats.one/img/event_logo/42373_672507f353295.png" group-title="Eventi Live DLHD",Triathlon | T100 Triathlon World Tour | Dubai T100 Men / Women | Station 8 (21:15)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="triathlont100worldtourdubai" tvg-name="Triathlon | Triathlon: T100 World Tour - Dubai (09:15)" tvg-logo="https://st2.depositphotos.com/4840515/8865/v/950/depositphotos_88651110-stock-illustration-triathlon-logo-and-icon-swimming.jpg" group-title="Eventi Live DLHD",Triathlon | Triathlon: T100 World Tour - Dubai (09:15)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="seriea1pallavolopadovavspowervolleymilano" tvg-name="Volleyball | Serie A1 : Pallavolo Padova vs. Power Volley Milano (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pallavolo Padova_vs_Power Volley Milano.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Pallavolo Padova vs. Power Volley Milano (19:00)
