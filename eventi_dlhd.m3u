@@ -2,18 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecbeneventovsmonopoli" tvg-name="Soccer | Italy - Serie C : Benevento vs Monopoli (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benevento_vs_Monopoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Monopoli (13:30)
-https://dlhd.dad/watch.php?id=19
-
-#EXTINF:-1 tvg-id="italyseriecbeneventovsmonopoli" tvg-name="Soccer | Italy - Serie C : Benevento vs Monopoli (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benevento_vs_Monopoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Monopoli (13:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecospitalettovsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Union Brescia (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ospitaletto vs Union Brescia (13:30)
-https://dlhd.dad/watch.php?id=20
-
-#EXTINF:-1 tvg-id="italyseriecospitalettovsunionbrescia" tvg-name="Soccer | Italy - Serie C : Ospitaletto vs Union Brescia (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Union Brescia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ospitaletto vs Union Brescia (13:30)
-https://dlhd.dad/watch.php?id=462
-
 #EXTINF:-1 tvg-id="italyseriecalcionevsnovara" tvg-name="Soccer | Italy - Serie C : Alcione vs Novara (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Alcione_vs_Novara.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Alcione vs Novara (15:30)
 https://dlhd.dad/watch.php?id=21
 
@@ -65,17 +53,8 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="nittoatpfinals" tvg-name="Tennis | Nitto ATP Finals (16:00)" tvg-logo="https://tickets.nittoatpfinals.com/img/lang/it.png" group-title="Eventi Live DLHD",Tennis | Nitto ATP Finals (16:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="moto2valenciagrandprixrace" tvg-name="Motorsport | Moto2 : Valencia Grand Prix Race (13:00)" tvg-logo="https://www.saint-leger.be/ma-commune/autres-services/atl/images/logo-facebook-hd.png/@@images/image.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Valencia Grand Prix Race (13:00)
-https://dlhd.dad/watch.php?id=575
-
 #EXTINF:-1 tvg-id="motogpvalenciagrandprixrace" tvg-name="Motorsport | MotoGP : Valencia Grand Prix Race (19:00)" tvg-logo="https://wallpapercave.com/wp/wp11853500.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP : Valencia Grand Prix Race (19:00)
 https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="slalomlevikristoffersenhenrikvsmeillardloic" tvg-name="Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (13:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kristoffersen, Henrik_vs_Meillard, Loic.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (13:45)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="slalomlevikristoffersenhenrikvsmeillardloic" tvg-name="Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (13:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kristoffersen, Henrik_vs_Meillard, Loic.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Levi : Kristoffersen, Henrik vs. Meillard, Loic (13:45)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="xobadkamerstrophyx2otrofeehammeflandriencross" tvg-name="Cycling | X?O Badkamers Trophy X2O Trofee Hamme - Flandriencross (14:45)" tvg-logo="https://pixy.org/src/91/916374.png" group-title="Eventi Live DLHD",Cycling | X?O Badkamers Trophy X2O Trofee Hamme - Flandriencross (14:45)
 https://dlhd.dad/watch.php?id=879
