@@ -15,8 +15,12 @@ https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
 https://dlhd.dad/watch.php?id=868
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Altro",ANIMAL PLANET
+https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
+https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -158,12 +162,16 @@ https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO
 https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
+#EXTINF:-1 tvg-id="" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
+https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
+#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
+https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://dlhd.dad/watch.php?id=854
 
@@ -451,6 +459,8 @@ https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 https://dlhd.dad/watch.php?id=862
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://dlhd.dad/watch.php?id=867
+#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
+https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
@@ -459,8 +469,6 @@ https://dlhd.dad/watch.php?id=866
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -604,6 +612,8 @@ https://vavoo.to/vavoo-iptv/play/10952221968404a15fb50
 https://vavoo.to/vavoo-iptv/play/408156101494ee7f98efdd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Altro",TELEARTE
 https://vavoo.to/vavoo-iptv/play/2586615238c67a91af5daa
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELEBELLUNO
+https://vavoo.to/vavoo-iptv/play/3696520354663b7a8a1b38
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/vNB5TJBjA3U/sddefault.jpg" group-title="Altro",TELEBOARIO
 https://vavoo.to/vavoo-iptv/play/338336420207ccf0ade90b
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Logo_Telecitt%C3%A0.svg/800px-Logo_Telecitt%C3%A0.svg.png" group-title="Altro",TELECITTA
@@ -716,21 +726,35 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecpergolettesevsgianaerminio" tvg-name="Soccer | Italy - Serie C : Pergolettese vs Giana Erminio (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_Giana Erminio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pergolettese vs Giana Erminio (21:30)
-https://dlhd.dad/watch.php?id=1
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavscavese" tvg-name="Soccer | Italy - Serie C : Foggia vs Cavese (21:30)" tvg-logo="https://smimgs.com/images/logos/clubs/866.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Foggia vs Cavese (21:30)
-https://dlhd.dad/watch.php?id=3
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavscavese" tvg-name="Soccer | Italy - Serie C : Foggia vs Cavese (21:30)" tvg-logo="https://smimgs.com/images/logos/clubs/866.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Foggia vs Cavese (21:30)
+#EXTINF:-1 tvg-id="europeu19euroqualifyingpolandu19vsitalyu19" tvg-name="Soccer | Europe - U19 Euro Qualifying : Poland U19 vs Italy U19 (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Poland U19_vs_Italy U19.png" group-title="Eventi Live DLHD",Soccer | Europe - U19 Euro Qualifying : Poland U19 vs Italy U19 (16:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="worldcupqualifyinggermanyvsslovakia" tvg-name="Soccer | World Cup Qualifying : Germany vs Slovakia (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Germany_vs_Slovakia.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Germany vs Slovakia (21:45)
-https://dlhd.dad/watch.php?id=462
+#EXTINF:-1 tvg-id="europeeurou21qualifyingmontenegrou21vsitalyu21" tvg-name="Soccer | Europe - Euro U-21 Qualifying : Montenegro U21 vs Italy U21 (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Montenegro U21_vs_Italy U21.png" group-title="Eventi Live DLHD",Soccer | Europe - Euro U-21 Qualifying : Montenegro U21 vs Italy U21 (19:30)
+https://dlhd.dad/watch.php?id=851
+
+#EXTINF:-1 tvg-id="daviscupworldgroupteamsfrancevsbelgium" tvg-name="Tennis | Davis Cup World Group Teams : France vs Belgium (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Belgium.png" group-title="Eventi Live DLHD",Tennis | Davis Cup World Group Teams : France vs Belgium (17:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (11:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live DLHD",Motorsport | MotoGP: Valencia Test Day (11:00)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpvalenciatestday" tvg-name="Motorsport | MotoGP: Valencia Test Day (15:20)" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/MotoGP-Logo-New.png" group-title="Eventi Live DLHD",Motorsport | MotoGP: Valencia Test Day (15:20)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="championsleaguegalatasarayvstrieste" tvg-name="Basketball | Champions League : Galatasaray vs Trieste (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Galatasaray_vs_Trieste.png" group-title="Eventi Live DLHD",Basketball | Champions League : Galatasaray vs Trieste (19:00)
+https://dlhd.dad/watch.php?id=877
 
 
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",NESSUN EVENTO
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Montenegro U21 x Italy U21 18:30
+https://sportzonline.live/channels/hd/hd8.php
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Morocco x Uganda 20:00
+https://sportzonline.live/channels/hd/hd7.php
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Sweden x Slovenia 20:45
+https://sportzonline.live/channels/hd/hd8.php
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Canada x Venezuela 02:20
+https://sportzonline.live/channels/hd/hd7.php
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Ecuador x New Zealand 02:30
+https://sportzonline.live/channels/hd/hd7.php
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Fight | UFC Events | UFC MMA | UFC PPV |  (Italiano)" group-title="Eventi Live STREAMED",Fight | UFC Events | UFC MMA | UFC PPV |  (Italiano)
 #EXTVLCOPT:http-referrer=https://embedsports.top/
