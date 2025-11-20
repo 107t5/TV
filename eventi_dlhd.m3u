@@ -2,12 +2,24 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="seriea1womenconeglianowvsbustoarsiziow" tvg-name="Volleyball | Serie A1 Women : Conegliano W vs Busto Arsizio W (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Conegliano W_vs_Busto Arsizio W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Conegliano W vs Busto Arsizio W (21:00)
-https://dlhd.dad/watch.php?id=877
+#EXTINF:-1 tvg-id="daviscupworldgroupteamsspainvsczechrepublic" tvg-name="Tennis | Davis Cup World Group Teams : Spain vs Czech Republic (11:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Spain_vs_Czech Republic.png" group-title="Eventi Live DLHD",Tennis | Davis Cup World Group Teams : Spain vs Czech Republic (11:00)
+https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="seriea1powervolleymilanovsmandgscuolapallavolo" tvg-name="Volleyball | Serie A1 : Power Volley Milano vs. MandG Scuola Pallavolo (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Power Volley Milano_vs_MandG Scuola Pallavolo.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Power Volley Milano vs. MandG Scuola Pallavolo (21:30)
-https://dlhd.dad/watch.php?id=882
+#EXTINF:-1 tvg-id="daviscupworldgroupteamsargentinavsgermany" tvg-name="Tennis | Davis Cup World Group Teams : Argentina vs Germany (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_Germany.png" group-title="Eventi Live DLHD",Tennis | Davis Cup World Group Teams : Argentina vs Germany (18:00)
+https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="lenchampionsleagueproreccovsnovibeograd" tvg-name="Water polo | LEN Champions League : Pro Recco vs Novi Beograd (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Recco_vs_Novi Beograd.png" group-title="Eventi Live DLHD",Water polo | LEN Champions League : Pro Recco vs Novi Beograd (21:30)
-https://dlhd.dad/watch.php?id=462
+#EXTINF:-1 tvg-id="formula1heinekenlasvegasgrandprixpractice1" tvg-name="Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 1 (02:30)" tvg-logo="https://i.pinimg.com/originals/dc/1e/cd/dc1ecd6a8b61a87ebca183f93e8f581c.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Practice 1 (02:30)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="f1academylasvegasstripcircuitinnevadapracticesession" tvg-name="Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Practice Session (04:00)" tvg-logo="https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1729455068/trackside-images/2024/F1_Grand_Prix_of_United_States/2179833844.jpg" group-title="Eventi Live DLHD",Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Practice Session (04:00)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="riyadhsnookerchampionshipkyrenwilsonvsneilrobertson" tvg-name="Snooker | Riyadh Snooker Championship : Kyren Wilson vs Neil Robertson (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kyren Wilson_vs_Neil Robertson.png" group-title="Eventi Live DLHD",Snooker | Riyadh Snooker Championship : Kyren Wilson vs Neil Robertson (16:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="riyadhsnookerchampionshipjuddtrumpvsmarkwilliams" tvg-name="Snooker | Riyadh Snooker Championship : Judd Trump vs Mark Williams (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Judd Trump_vs_Mark Williams.png" group-title="Eventi Live DLHD",Snooker | Riyadh Snooker Championship : Judd Trump vs Mark Williams (21:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguequarterfinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Quarter-Final (21:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/674/977/original/athletic-man-jumping-png.png" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Quarter-Final (21:00)
+https://dlhd.dad/watch.php?id=879
 
