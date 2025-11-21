@@ -98,8 +98,6 @@ https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
-https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
@@ -166,12 +164,12 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
-#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
-https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://dlhd.dad/watch.php?id=854
 
@@ -467,10 +465,10 @@ https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
+#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
+https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -505,6 +503,8 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # MUSICA
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://dlhd.dad/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -747,19 +747,13 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="daviscupfinalssemifinal1argentinavsgermany" tvg-name="Tennis | Davis Cup Finals Semifinal 1 : Argentina vs Germany (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_Germany.png" group-title="Eventi Live DLHD",Tennis | Davis Cup Finals Semifinal 1 : Argentina vs Germany (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="riyadhseasonchampionshipsemifinal" tvg-name="Snooker | Riyadh Season Championship | Semi-Final (16:00)" tvg-logo="https://wallpaperaccess.com/full/1623888.jpg" group-title="Eventi Live DLHD",Snooker | Riyadh Season Championship | Semi-Final (16:00)
+#EXTINF:-1 tvg-id="riyadhseasonchampionshipfinal" tvg-name="Snooker | Riyadh Season Championship | Final (21:00)" tvg-logo="https://cdn.britannica.com/79/96379-050-FDCFF8D3/landmark-tower-Markaz-al-Mamlakah-Saudi-Arabia-Riyadh.jpg" group-title="Eventi Live DLHD",Snooker | Riyadh Season Championship | Final (21:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="riyadhseasonchampionshipfinal" tvg-name="Snooker | Riyadh Season Championship | Final (21:00)" tvg-logo="https://wallpaperaccess.com/full/1623888.jpg" group-title="Eventi Live DLHD",Snooker | Riyadh Season Championship | Final (21:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguesemifinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Semi-Final (21:00)" tvg-logo="https://ortoday.com/wp-content/uploads/2024/01/web-photo-template-3.png" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Semi-Final (21:00)
+#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguesemifinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Semi-Final (21:00)" tvg-logo="https://dam.destination.one/192063/a56a2a0d08f522da18de28dcc1e58ca3757ab8c8ba713cb50cf88580189c99b1/.jpg" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Semi-Final (21:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="grandprixfinlandiashortprogrammale" tvg-name="Ice Skating | Grand Prix | Finlandia Short Program | Male (15:30)" tvg-logo="https://www.suzukiauto.co.za/hubfs/NEW-GV.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Short Program | Male (15:30)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="grandprixfinlandiashortprogramfemale" tvg-name="Ice Skating | Grand Prix | Finlandia Short Program | Female (17:30)" tvg-logo="https://www.suzukiauto.co.za/hubfs/NEW-GV.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Short Program | Female (17:30)
+#EXTINF:-1 tvg-id="grandprixfinlandiashortprogramfemale" tvg-name="Ice Skating | Grand Prix | Finlandia Short Program | Female (17:30)" tvg-logo="https://www.grandprixmotorpark.com/wp-content/uploads/2024/07/logo_gpm.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Short Program | Female (17:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="gfigureskatingfinlandiatrophyrhythmicdance" tvg-name="Ice Skating | GFigure Skating: Finlandia Trophy rhythmic dance (19:30)" tvg-logo="https://cdn.inksoft.com/images/publishers/14855/stores/milford_skating/img/socialmedia.png" group-title="Eventi Live DLHD",Ice Skating | GFigure Skating: Finlandia Trophy rhythmic dance (19:30)
