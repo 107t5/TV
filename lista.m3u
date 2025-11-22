@@ -19,6 +19,8 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
+https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -417,6 +419,8 @@ https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 https://vavoo.to/vavoo-iptv/play/1971490284ce4effc4ca8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
@@ -439,8 +443,6 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION
@@ -728,7 +730,7 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesliga2fortunadüsseldorfvsmagdeburg" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Magdeburg (14:00)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/1.-FC-Magdeburg-Black-Logo-Vector.svg-.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Magdeburg (14:00)
+#EXTINF:-1 tvg-id="germanybundesliga2fortunadüsseldorfvsmagdeburg" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Magdeburg (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fortuna Düsseldorf_vs_Magdeburg.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Magdeburg (14:00)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriecprovercellivsalcione" tvg-name="All Soccer Events | Italy - Serie C : Pro Vercelli vs Alcione (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Alcione.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Vercelli vs Alcione (15:30)
@@ -794,16 +796,16 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="italyserieanapolivsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Atalanta (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Atalanta (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="daviscupfinalssemifinal2" tvg-name="Tennis | Davis Cup Finals Semifinal 2 (13:00)" tvg-logo="https://www.collegetransitions.com/wp-content/uploads/2022/03/UC-Davis-e1648646748811.png" group-title="Eventi Live DLHD",Tennis | Davis Cup Finals Semifinal 2 (13:00)
+#EXTINF:-1 tvg-id="daviscupfinalssemifinal2" tvg-name="Tennis | Davis Cup Finals Semifinal 2 (13:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/CtdGyPMQ6RtppK3TlcfxmiTZWmI=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/358/davis-cup-cd9fd4.png" group-title="Eventi Live DLHD",Tennis | Davis Cup Finals Semifinal 2 (13:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="daviscupt2025semifinal2singles2" tvg-name="Tennis | Davis Cup (T2025): Semifinal 2. Singles 2 (15:15)" tvg-logo="https://www.collegetransitions.com/wp-content/uploads/2022/03/UC-Davis-e1648646748811.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Semifinal 2. Singles 2 (15:15)
+#EXTINF:-1 tvg-id="daviscupt2025semifinal2singles2" tvg-name="Tennis | Davis Cup (T2025): Semifinal 2. Singles 2 (15:15)" tvg-logo="https://thumbor.prod.vidiocdn.com/CtdGyPMQ6RtppK3TlcfxmiTZWmI=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/358/davis-cup-cd9fd4.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Semifinal 2. Singles 2 (15:15)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="daviscupt2025semifinal2doubles" tvg-name="Tennis | Davis Cup (T2025): Semifinal 2. Doubles (17:30)" tvg-logo="https://www.collegetransitions.com/wp-content/uploads/2022/03/UC-Davis-e1648646748811.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Semifinal 2. Doubles (17:30)
+#EXTINF:-1 tvg-id="daviscupt2025semifinal2doubles" tvg-name="Tennis | Davis Cup (T2025): Semifinal 2. Doubles (17:30)" tvg-logo="https://content.cdn.viber.com/stickers/144/429200/00429200.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Semifinal 2. Doubles (17:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="f1academylasvegasstripcircuitinnevadarace1" tvg-name="Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Race 1 (04:15)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/26075/logo/28888/Vanguard_Academy_Charter_Schools_Logo.png" group-title="Eventi Live DLHD",Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Race 1 (04:15)
+#EXTINF:-1 tvg-id="f1academylasvegasstripcircuitinnevadarace1" tvg-name="Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Race 1 (04:15)" tvg-logo="https://library.sportingnews.com/styles/facebook_1200x630/s3/2022-10/nba-plain--acc227bd-b61a-4d53-98e6-92c4d1d88840.png?itok=a0c6DG5j" group-title="Eventi Live DLHD",Motorsport | F1 Academy : Las Vegas Strip Circuit in Nevada Race 1 (04:15)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="formula1heinekenlasvegasgrandprixqualifying" tvg-name="Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Qualifying (06:00)" tvg-logo="https://wallpaperaccess.com/full/2180263.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Qualifying (06:00)
@@ -818,10 +820,10 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="slalomgurglkristoffersenhenrikvsmeillardloic" tvg-name="Alpine Ski | Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kristoffersen, Henrik_vs_Meillard, Loic.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic (14:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="ucicyclocrossworldcuptabor" tvg-name="Cycling | UCI Cyclo-Cross World Cup Tabor (13:45)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Symbol.png" group-title="Eventi Live DLHD",Cycling | UCI Cyclo-Cross World Cup Tabor (13:45)
+#EXTINF:-1 tvg-id="ucicyclocrossworldcuptabor" tvg-name="Cycling | UCI Cyclo-Cross World Cup Tabor (13:45)" tvg-logo="https://images.ctfassets.net/761l7gh5x5an/24ZTCtRAiHTe7UcTzk6IiO/383646061ef7ea5293a9975538d0847f/santini_black_logo.png" group-title="Eventi Live DLHD",Cycling | UCI Cyclo-Cross World Cup Tabor (13:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="globalchampionstourevent17jumpingprague" tvg-name="Equestrian | Global Champions Tour | Event 17 Jumping | Prague (21:00)" tvg-logo="https://vertassets.blob.core.windows.net/image/91f6efa7/91f6efa7-b6cb-493d-87cb-a607b504726c/global_istock_1142610359.png" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour | Event 17 Jumping | Prague (21:00)
+#EXTINF:-1 tvg-id="globalchampionstourevent17jumpingprague" tvg-name="Equestrian | Global Champions Tour | Event 17 Jumping | Prague (21:00)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b89d98214434995.67583b94b4558.png" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour | Event 17 Jumping | Prague (21:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="isugrandprixseries2025finlandtrophywomenshortcourse" tvg-name="Ice Skating | ISU Grand Prix Series 2025 - Finland Trophy: Women - Short Course (08:30)" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/02/icc-champions-trophy-2025-logo-02.png" group-title="Eventi Live DLHD",Ice Skating | ISU Grand Prix Series 2025 - Finland Trophy: Women - Short Course (08:30)
@@ -830,10 +832,10 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="grandprixfinlandiamixedpairsfreeroutine" tvg-name="Ice Skating | Grand Prix | Finlandia Mixed pairs | Free routine (12:30)" tvg-logo="https://media-s3-us-east-1.ceros.com/indycar/images/2023/02/27/b30483b523b1878fb5acd8fcc39758e3/in-full-pos-color.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Finlandia Mixed pairs | Free routine (12:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (17:30)" tvg-logo="https://physicaltherapyforeverybody.com/wp-content/uploads/Untitled-Facebook-Cover-86.png" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (17:30)
+#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (17:30)" tvg-logo="https://womensagenda.com.au/wp-content/uploads/2023/01/Untitled-design-28-3.png" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (17:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (17:30)" tvg-logo="https://physicaltherapyforeverybody.com/wp-content/uploads/Untitled-Facebook-Cover-86.png" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (17:30)
+#EXTINF:-1 tvg-id="womenfreeprogramgrandprixfinland" tvg-name="Ice Skating | Women | Free Program Grand Prix | Finland (17:30)" tvg-logo="https://womensagenda.com.au/wp-content/uploads/2023/01/Untitled-design-28-3.png" group-title="Eventi Live DLHD",Ice Skating | Women | Free Program Grand Prix | Finland (17:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="friendlyinternationalwalesvsnewzealand" tvg-name="Rugby Union | Friendly International : Wales vs New Zealand (17:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wales_vs_New Zealand.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Wales vs New Zealand (17:10)
@@ -851,7 +853,7 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="qualificationlillehammerladies" tvg-name="Ski Jumping | Qualification | Lillehammer Ladies (12:45)" tvg-logo="https://section125qualification.com/wp-content/uploads/2025/01/s125-cc-logo.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Lillehammer Ladies (12:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="individualcompetitionlillehammerhs140" tvg-name="Ski Jumping | Individual competition | Lillehammer HS140 (15:30)" tvg-logo="https://www.culturemonkey.io/employee-engagement/content/images/2023/08/individual-development-plan-examples.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Lillehammer HS140 (15:30)
+#EXTINF:-1 tvg-id="individualcompetitionlillehammerhs140" tvg-name="Ski Jumping | Individual competition | Lillehammer HS140 (15:30)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Lillehammer HS140 (15:30)
 https://dlhd.dad/watch.php?id=878
 
 
