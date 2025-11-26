@@ -11,7 +11,7 @@
   <programme start="20251126160000 +0200" stop="20251126180000 +0200" channel="ItalyCoppaItaliaSerieCInterIIvsRenate">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Coppa Italia Serie C : Inter II vs Renate</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalySerieCGubbiovsJuventusII">
     <display-name>Italy - Serie C : Gubbio vs Juventus II</display-name>
@@ -24,7 +24,7 @@
   <programme start="20251126160000 +0200" stop="20251126180000 +0200" channel="ItalySerieCGubbiovsJuventusII">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Gubbio vs Juventus II</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251126000000 +0200" stop="20251126160000 +0200" channel="ItalySerieCGubbiovsJuventusII">
     <title lang="it">Inizia alle 16:00.</title>
@@ -34,7 +34,7 @@
   <programme start="20251126160000 +0200" stop="20251126180000 +0200" channel="ItalySerieCGubbiovsJuventusII">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie C : Gubbio vs Juventus II</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalyCoppaItaliaSerieCArezzovsLatina">
     <display-name>Italy - Coppa Italia Serie C : Arezzo vs Latina</display-name>
@@ -47,7 +47,7 @@
   <programme start="20251126190000 +0200" stop="20251126210000 +0200" channel="ItalyCoppaItaliaSerieCArezzovsLatina">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Coppa Italia Serie C : Arezzo vs Latina</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalyCoppaItaliaSerieCPotenzaCalciovsAudaceCerignola">
     <display-name>Italy - Coppa Italia Serie C : Potenza Calcio vs Audace Cerignola</display-name>
@@ -60,7 +60,7 @@
   <programme start="20251126190000 +0200" stop="20251126210000 +0200" channel="ItalyCoppaItaliaSerieCPotenzaCalciovsAudaceCerignola">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Coppa Italia Serie C : Potenza Calcio vs Audace Cerignola</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalyCoppaItaliaSerieCTernanavsGiugliano">
     <display-name>Italy - Coppa Italia Serie C : Ternana vs Giugliano</display-name>
@@ -73,7 +73,7 @@
   <programme start="20251126190000 +0200" stop="20251126210000 +0200" channel="ItalyCoppaItaliaSerieCTernanavsGiugliano">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Coppa Italia Serie C : Ternana vs Giugliano</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalyCoppaItaliaSerieCProVercellivsAtalantaII">
     <display-name>Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II</display-name>
@@ -86,7 +86,7 @@
   <programme start="20251126190000 +0200" stop="20251126210000 +0200" channel="ItalyCoppaItaliaSerieCProVercellivsAtalantaII">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251126000000 +0200" stop="20251126190000 +0200" channel="ItalyCoppaItaliaSerieCProVercellivsAtalantaII">
     <title lang="it">Inizia alle 19:00.</title>
@@ -96,7 +96,7 @@
   <programme start="20251126190000 +0200" stop="20251126210000 +0200" channel="ItalyCoppaItaliaSerieCProVercellivsAtalantaII">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Coppa Italia Serie C : Pro Vercelli vs Atalanta II</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UEFAChampionsLeaguePaphosvsMonaco">
     <display-name>UEFA Champions League : Paphos vs Monaco</display-name>
@@ -109,7 +109,7 @@
   <programme start="20251126194500 +0200" stop="20251126214500 +0200" channel="UEFAChampionsLeaguePaphosvsMonaco">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Paphos vs Monaco</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UEFAChampionsLeagueKbenhavnvsKairat">
     <display-name>UEFA Champions League : København vs Kairat</display-name>
@@ -122,7 +122,7 @@
   <programme start="20251126194500 +0200" stop="20251126214500 +0200" channel="UEFAChampionsLeagueKbenhavnvsKairat">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : København vs Kairat</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251126000000 +0200" stop="20251126194500 +0200" channel="UEFAChampionsLeagueKbenhavnvsKairat">
     <title lang="it">Inizia alle 19:45.</title>
@@ -132,7 +132,7 @@
   <programme start="20251126194500 +0200" stop="20251126214500 +0200" channel="UEFAChampionsLeagueKbenhavnvsKairat">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : København vs Kairat</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalyCoppaItaliaSerieCSambenedettesevsUnionBrescia">
     <display-name>Italy - Coppa Italia Serie C : Sambenedettese vs Union Brescia</display-name>
@@ -145,7 +145,7 @@
   <programme start="20251126213000 +0200" stop="20251126233000 +0200" channel="ItalyCoppaItaliaSerieCSambenedettesevsUnionBrescia">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Coppa Italia Serie C : Sambenedettese vs Union Brescia</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251126000000 +0200" stop="20251126213000 +0200" channel="ItalyCoppaItaliaSerieCSambenedettesevsUnionBrescia">
     <title lang="it">Inizia alle 21:30.</title>
@@ -155,7 +155,7 @@
   <programme start="20251126213000 +0200" stop="20251126233000 +0200" channel="ItalyCoppaItaliaSerieCSambenedettesevsUnionBrescia">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Coppa Italia Serie C : Sambenedettese vs Union Brescia</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UEFAChampionsLeagueArsenalvsBayernMnchen">
     <display-name>UEFA Champions League : Arsenal vs Bayern München</display-name>
@@ -168,7 +168,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeagueArsenalvsBayernMnchen">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Arsenal vs Bayern München</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251126000000 +0200" stop="20251126220000 +0200" channel="UEFAChampionsLeagueArsenalvsBayernMnchen">
     <title lang="it">Inizia alle 22:00.</title>
@@ -178,7 +178,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeagueArsenalvsBayernMnchen">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Arsenal vs Bayern München</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251126000000 +0200" stop="20251126220000 +0200" channel="UEFAChampionsLeagueArsenalvsBayernMnchen">
     <title lang="it">Inizia alle 22:00.</title>
@@ -188,7 +188,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeagueArsenalvsBayernMnchen">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Arsenal vs Bayern München</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UEFAChampionsLeagueLiverpoolvsPSV">
     <display-name>UEFA Champions League : Liverpool vs PSV</display-name>
@@ -201,7 +201,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeagueLiverpoolvsPSV">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Liverpool vs PSV</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UEFAChampionsLeagueEintrachtFrankfurtvsAtalanta">
     <display-name>UEFA Champions League : Eintracht Frankfurt vs Atalanta</display-name>
@@ -214,7 +214,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeagueEintrachtFrankfurtvsAtalanta">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Eintracht Frankfurt vs Atalanta</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <programme start="20251126000000 +0200" stop="20251126220000 +0200" channel="UEFAChampionsLeagueEintrachtFrankfurtvsAtalanta">
     <title lang="it">Inizia alle 22:00.</title>
@@ -224,7 +224,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeagueEintrachtFrankfurtvsAtalanta">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Eintracht Frankfurt vs Atalanta</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UEFAChampionsLeagueSportingCPvsClubBrugge">
     <display-name>UEFA Champions League : Sporting CP vs Club Brugge</display-name>
@@ -237,7 +237,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeagueSportingCPvsClubBrugge">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Sporting CP vs Club Brugge</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UEFAChampionsLeaguePSGvsTottenhamHotspur">
     <display-name>UEFA Champions League : PSG vs Tottenham Hotspur</display-name>
@@ -250,7 +250,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeaguePSGvsTottenhamHotspur">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : PSG vs Tottenham Hotspur</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UEFAChampionsLeagueAtlticoMadridvsInternazionale">
     <display-name>UEFA Champions League : Atlético Madrid vs Internazionale</display-name>
@@ -263,7 +263,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeagueAtlticoMadridvsInternazionale">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Atlético Madrid vs Internazionale</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UEFAChampionsLeagueOlympiakosPiraeusvsRealMadrid">
     <display-name>UEFA Champions League : Olympiakos Piraeus vs Real Madrid</display-name>
@@ -276,7 +276,7 @@
   <programme start="20251126220000 +0200" stop="20251127000000 +0200" channel="UEFAChampionsLeagueOlympiakosPiraeusvsRealMadrid">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Olympiakos Piraeus vs Real Madrid</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="QualificationFalun">
     <display-name>Qualification | Falun</display-name>
