@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesliga2eintrachtbraunschweigvskaiserslautern" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Eintracht Braunschweig vs Kaiserslautern (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eintracht Braunschweig_vs_Kaiserslautern.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Eintracht Braunschweig vs Kaiserslautern (14:00)
-https://dlhd.dad/watch.php?id=870
-
 #EXTINF:-1 tvg-id="italyserieclumezzanevsnovara" tvg-name="All Soccer Events | Italy - Serie C : Lumezzane vs Novara (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lumezzane_vs_Novara.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Lumezzane vs Novara (15:30)
 https://dlhd.dad/watch.php?id=153
 
@@ -44,7 +41,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="franceligue1monacovspsg" tvg-name="All Soccer Events | France - Ligue 1 : Monaco vs PSG (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monaco_vs_PSG.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Monaco vs PSG (18:00)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="italyseriecospitalettovsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/29/3/associazione-virtus-verona-logo-png_seeklogo-290299.png?v=1962747632479797680" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (18:30)
+#EXTINF:-1 tvg-id="italyseriecospitalettovsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (18:30)" tvg-logo="https://www.carscoops.com/wp-content/uploads/2022/03/2022-VW-Virtus-main.jpg" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ospitaletto vs Virtus Verona (18:30)
 https://dlhd.dad/watch.php?id=155
 
 #EXTINF:-1 tvg-id="italyseriecpergolettesevsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Pergolettese vs AlbinoLeffe (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pergolettese vs AlbinoLeffe (18:30)
@@ -86,25 +83,22 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevstoulouse" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Toulouse.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (22:05)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixsprint" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixsprint" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)" tvg-logo="https://www.logotypes101.com/logos/768/2D10E7D918441ACE6889C4BD3F97BF7E/f1_2018_logo.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixsprintrace" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (18:20)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (18:20)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)" tvg-logo="https://www.logotypes101.com/logos/768/2D10E7D918441ACE6889C4BD3F97BF7E/f1_2018_logo.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240612/original/pngtree-2025-3d-vector-design-png-image_15307809.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)
+#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)" tvg-logo="https://i5.walmartimages.com/seo/Joan-Jett-and-the-Blackhearts-Guitar-Wall-Poster-22-375-x-34-Framed_e315c527-88e5-4bb9-96b3-40ba7af7b434.abe7e2ba5607b97e26aedd00b6e0aa78.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240612/original/pngtree-2025-3d-vector-design-png-image_15307809.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)
+#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)" tvg-logo="https://i5.walmartimages.com/seo/Joan-Jett-and-the-Blackhearts-Guitar-Wall-Poster-22-375-x-34-Framed_e315c527-88e5-4bb9-96b3-40ba7af7b434.abe7e2ba5607b97e26aedd00b6e0aa78.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="worldcupracesatcoppermountain2ndrunofthewomensgiantslalom" tvg-name="Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ostersundwomensrelayworldcup" tvg-name="Biathlon | Ostersund | Women's Relay World Cup (14:15)" tvg-logo="https://www.theshieldofsports.news/wp-content/uploads/2022/11/256.png" group-title="Eventi Live DLHD",Biathlon | Ostersund | Women's Relay World Cup (14:15)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="stersundmensrelayworldcup" tvg-name="Biathlon | ?stersund | Men's Relay World Cup (17:45)" tvg-logo="https://cdn.4321property.com/4321/close.png" group-title="Eventi Live DLHD",Biathlon | ?stersund | Men's Relay World Cup (17:45)
@@ -119,9 +113,9 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="friendlyinternationalwalesvssouthafrica" tvg-name="Rugby Union | Friendly International : Wales vs South Africa (17:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wales_vs_South Africa.png" group-title="Eventi Live DLHD",Rugby Union | Friendly International : Wales vs South Africa (17:10)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="rukamenshs142worldcupday1" tvg-name="Ski Jumping | Ruka | Men's HS 142 World Cup | Day 1 (16:00)" tvg-logo="https://www.allkpop.com/upload/2023/11/content/201105/1700496327-image.png" group-title="Eventi Live DLHD",Ski Jumping | Ruka | Men's HS 142 World Cup | Day 1 (16:00)
+#EXTINF:-1 tvg-id="rukamenshs142worldcupday1" tvg-name="Ski Jumping | Ruka | Men's HS 142 World Cup | Day 1 (16:00)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Ski Jumping | Ruka | Men's HS 142 World Cup | Day 1 (16:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="rukamens10kmgundersenworldcup" tvg-name="Winter Sports | Ruka | Men's 10km Gundersen World Cup (15:30)" tvg-logo="https://www.allkpop.com/upload/2023/11/content/201105/1700496327-image.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's 10km Gundersen World Cup (15:30)
+#EXTINF:-1 tvg-id="rukamens10kmgundersenworldcup" tvg-name="Winter Sports | Ruka | Men's 10km Gundersen World Cup (15:30)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's 10km Gundersen World Cup (15:30)
 https://dlhd.dad/watch.php?id=878
 
