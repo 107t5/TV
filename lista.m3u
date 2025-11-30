@@ -445,8 +445,6 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION
@@ -481,6 +479,8 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -525,6 +525,8 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -782,7 +784,7 @@ https://dlhd.dad/watch.php?id=7
 #EXTINF:-1 tvg-id="englandpremierleaguechelseavsarsenal" tvg-name="All Soccer Events | England - Premier League : Chelsea vs Arsenal (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs Arsenal (18:30)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsgianaerminio" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Giana Erminio (18:30)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUOpuO8J4aZplojDiLNycimES3khYrFsJeBJfJtSUIPiXQWm05qN88TR01DVuxnJD3QruxGN0Cewi_xaKGlFpRi6UwY7dpPkFzwjUKTns6l1g0xdJWbV_rqXg4a05WNpM9Xu3nbf9b2rE6pS1yhI8gxE9rHodmufZqQhNshNAwsaORGkMq-jEPuOQLid9m/s900/enrosadira dolomiti dove vederla.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Giana Erminio (18:30)
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsgianaerminio" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Giana Erminio (18:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Giana Erminio (18:30)
 https://dlhd.dad/watch.php?id=59
 
 #EXTINF:-1 tvg-id="italyseriecpontederavsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Athletic Carpi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Athletic Carpi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Athletic Carpi (18:30)
@@ -836,10 +838,10 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (20:45)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (20:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200xn/p0f6zvrg.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200xn/p0f6zvrg.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="rukamensmassstartfreestyle20kmworldcup" tvg-name="Cross Country | Ruka | Men's Mass Start Freestyle 20km World Cup (11:00)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Cross Country | Ruka | Men's Mass Start Freestyle 20km World Cup (11:00)
@@ -851,7 +853,7 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="top14sectionpaloisevslarochelle" tvg-name="Rugby Union | Top 14 : Section Paloise vs La Rochelle (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Section Paloise_vs_La Rochelle.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Section Paloise vs La Rochelle (22:05)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="worldcuprukahs142menqualifying" tvg-name="Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200xn/p0f6zvrg.png" group-title="Eventi Live DLHD",Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)
+#EXTINF:-1 tvg-id="worldcuprukahs142menqualifying" tvg-name="Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="italyseriea1womenmonvisovolleyvsvolleyvallefoglia" tvg-name="Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monviso Volley_vs_Volley Vallefoglia.png" group-title="Eventi Live DLHD",Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (16:30)
@@ -860,7 +862,7 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="rukamensmassstart10kmworldcup" tvg-name="Winter Sports | Ruka | Men's Mass Start 10km World Cup (09:45)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's Mass Start 10km World Cup (09:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="rukamenshs142worldcupday3" tvg-name="Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (14:00)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (14:00)
+#EXTINF:-1 tvg-id="rukamenshs142worldcupday3" tvg-name="Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (14:00)" tvg-logo="https://www.ruka.fi/sites/ruka/files/styles/large/public/2022-06/ruka_fi_icons_ruka_kuusamo_alamakipyoraily.png?itok=359yq8Ld" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (14:00)
 https://dlhd.dad/watch.php?id=878
 
 
