@@ -98,8 +98,6 @@ https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN
-https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
 https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
@@ -428,7 +426,7 @@ https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
-# RAI
+# SPORT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Altro",RTR 99 TV
@@ -479,8 +477,6 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -508,7 +504,7 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 9
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 
-# SPORT
+# MUSICA
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
@@ -677,7 +673,7 @@ https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
-# MUSICA
+# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpzqT0DLXv-md7VU-fTF5BeaEashocwHUdw&s" group-title="Altro",TT TELETUTTO
 https://vavoo.to/vavoo-iptv/play/3709706813e7a46de6436d
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
@@ -730,7 +726,7 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriealeccevstorino" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Torino (13:30)" tvg-logo="https://lecce.tuttogare.it/src/img/logo-srl-bianco.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Torino (13:30)
+#EXTINF:-1 tvg-id="italyseriealeccevstorino" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Torino (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Torino (13:30)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyseriecriminivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)" tvg-logo="https://www.prefissotelefonico.it/telefono.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)
@@ -754,7 +750,7 @@ https://dlhd.dad/watch.php?id=55
 #EXTINF:-1 tvg-id="italyseriecalcionevstrento" tvg-name="All Soccer Events | Italy - Serie C : Alcione vs Trento (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Alcione_vs_Trento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Alcione vs Trento (15:30)
 https://dlhd.dad/watch.php?id=59
 
-#EXTINF:-1 tvg-id="italyseriecarezzovssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Arezzo vs Sambenedettese (15:30)" tvg-logo="https://mercatininatalearezzo.it/wp-content/uploads/2022/08/Logo-MercatiniNataleArezzo2022-Recuperato.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Arezzo vs Sambenedettese (15:30)
+#EXTINF:-1 tvg-id="italyseriecarezzovssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Arezzo vs Sambenedettese (15:30)" tvg-logo="https://www.stradadelvino.arezzo.it/wp-content/uploads/2019/02/logo_strada.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Arezzo vs Sambenedettese (15:30)
 https://dlhd.dad/watch.php?id=68
 
 #EXTINF:-1 tvg-id="italyseriectrapani1905vsmonopoli" tvg-name="All Soccer Events | Italy - Serie C : Trapani 1905 vs Monopoli (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani 1905_vs_Monopoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trapani 1905 vs Monopoli (15:30)
@@ -838,10 +834,10 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (20:45)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (20:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)" tvg-logo="https://citybibleforum.org/sites/default/files/images/content/2021/World_image.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)" tvg-logo="https://citybibleforum.org/sites/default/files/images/content/2021/World_image.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="rukamensmassstartfreestyle20kmworldcup" tvg-name="Cross Country | Ruka | Men's Mass Start Freestyle 20km World Cup (11:00)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Cross Country | Ruka | Men's Mass Start Freestyle 20km World Cup (11:00)
@@ -853,7 +849,7 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="top14sectionpaloisevslarochelle" tvg-name="Rugby Union | Top 14 : Section Paloise vs La Rochelle (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Section Paloise_vs_La Rochelle.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Section Paloise vs La Rochelle (22:05)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="worldcuprukahs142menqualifying" tvg-name="Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)" tvg-logo="https://www.worldatlas.com/r/w405/upload/f4/e0/49/shutterstock-1665254809.png" group-title="Eventi Live DLHD",Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)
+#EXTINF:-1 tvg-id="worldcuprukahs142menqualifying" tvg-name="Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)" tvg-logo="https://citybibleforum.org/sites/default/files/images/content/2021/World_image.png" group-title="Eventi Live DLHD",Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="italyseriea1womenmonvisovolleyvsvolleyvallefoglia" tvg-name="Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monviso Volley_vs_Volley Vallefoglia.png" group-title="Eventi Live DLHD",Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (16:30)
@@ -862,7 +858,7 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="rukamensmassstart10kmworldcup" tvg-name="Winter Sports | Ruka | Men's Mass Start 10km World Cup (09:45)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's Mass Start 10km World Cup (09:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="rukamenshs142worldcupday3" tvg-name="Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (14:00)" tvg-logo="https://www.ruka.fi/sites/ruka/files/styles/large/public/2022-06/ruka_fi_icons_ruka_kuusamo_alamakipyoraily.png?itok=359yq8Ld" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (14:00)
+#EXTINF:-1 tvg-id="rukamenshs142worldcupday3" tvg-name="Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (14:00)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Winter Sports | Ruka | Men's HS 142 World Cup | Day 3 (14:00)
 https://dlhd.dad/watch.php?id=878
 
 
