@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesliga2fortunadüsseldorfvsschalke04" tvg-name="Soccer | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04 (19:30)" tvg-logo="https://www.f95.de/media/res/_rel/style/svg/F95_Logo_rgb_Standard.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04 (19:30)
+#EXTINF:-1 tvg-id="germanybundesliga2fortunadüsseldorfvsschalke04" tvg-name="Soccer | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04 (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fortuna Düsseldorf_vs_Schalke 04.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04 (19:30)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriectrentovscittadella" tvg-name="Soccer | Italy - Serie C : Trento vs Cittadella (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Cittadella.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Trento vs Cittadella (21:30)
@@ -22,7 +22,4 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea2uebcividalevsblubasket1971" tvg-name="Basketball | Serie A2 : Ueb Cividale vs. Blu Basket 1971 (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ueb Cividale_vs_Blu Basket 1971.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Ueb Cividale vs. Blu Basket 1971 (22:00)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="innsbrucksinglesworldcup" tvg-name="Winter Sports | Innsbruck | Singles World Cup (18:30)" tvg-logo="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20180221134637/iStock-539009044.jpg" group-title="Eventi Live DLHD",Winter Sports | Innsbruck | Singles World Cup (18:30)
-https://dlhd.dad/watch.php?id=878
 
