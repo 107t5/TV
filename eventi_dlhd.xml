@@ -333,19 +333,6 @@
     <desc lang="it">France - Ligue 1 : Lorient vs Olympique Lyonnais</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Formula2AbuDhabiRace">
-    <display-name>Formula 2 : Abu Dhabi Race</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207111500 +0200" channel="Formula2AbuDhabiRace">
-    <title lang="it">Inizia alle 11:15.</title>
-    <desc lang="it">Formula 2 : Abu Dhabi Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207111500 +0200" stop="20251207131500 +0200" channel="Formula2AbuDhabiRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Abu Dhabi Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1EtihadAirwaysAbuDhabiGPGrandPrixSunday">
     <display-name>Formula 1 : Etihad Airways Abu Dhabi GP - Grand Prix Sunday</display-name>
   </channel>
@@ -447,19 +434,6 @@
     <desc lang="it">Men 12.5 km Pursuit Competition | IBU World Cup Ostersund</desc>
     <category lang="it">Biathlon</category>
   </programme>
-  <channel id="TrondheimMens10kmFreestyleWorldCup">
-    <display-name>Trondheim | Men's 10km Freestyle World Cup</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207124500 +0200" channel="TrondheimMens10kmFreestyleWorldCup">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Trondheim | Men's 10km Freestyle World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207124500 +0200" stop="20251207144500 +0200" channel="TrondheimMens10kmFreestyleWorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Trondheim | Men's 10km Freestyle World Cup</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
   <channel id="UCICycloCrossWorldCupTerralbaSardinia">
     <display-name>UCI Cyclo-Cross World Cup Terralba - Sardinia</display-name>
   </channel>
@@ -498,32 +472,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Individual competition | Wisla HS134</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="FISWorldCupTrondheim10kmFreestyleF">
-    <display-name>FIS World Cup Trondheim | 10km Freestyle (F)</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207103000 +0200" channel="FISWorldCupTrondheim10kmFreestyleF">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">FIS World Cup Trondheim | 10km Freestyle (F).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207103000 +0200" stop="20251207123000 +0200" channel="FISWorldCupTrondheim10kmFreestyleF">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIS World Cup Trondheim | 10km Freestyle (F)</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <channel id="TrondheimMensHS138WorldCupDay2">
-    <display-name>Trondheim | Men's HS 138 World Cup | Day 2</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207114000 +0200" channel="TrondheimMensHS138WorldCupDay2">
-    <title lang="it">Inizia alle 11:40.</title>
-    <desc lang="it">Trondheim | Men's HS 138 World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207114000 +0200" stop="20251207134000 +0200" channel="TrondheimMensHS138WorldCupDay2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Trondheim | Men's HS 138 World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="ISMFWorldCupSolitudeSprintHF">
     <display-name>ISMF World Cup Solitude | Sprint (H/F)</display-name>
