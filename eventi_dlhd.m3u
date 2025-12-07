@@ -2,10 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligahamburgersvvswerderbremen" tvg-name="All Soccer Events | Germany - Bundesliga : Hamburger SV vs Werder Bremen (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hamburger SV_vs_Werder Bremen.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Hamburger SV vs Werder Bremen (16:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecpropatriavsdolomitibellunesi" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (18:30)" tvg-logo="https://www.apple.com/newsroom/images/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/article/Apple-iPhone-15-Pro-lineup-color-lineup-geo-230912_big.jpg.large_2x.jpg" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (18:30)
+#EXTINF:-1 tvg-id="italyseriecpropatriavsdolomitibellunesi" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (18:30)" tvg-logo="https://typography.guru/uploads/monthly_2017_11/pro.png.480237cb3471483f99057bbcb872170b.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Dolomiti Bellunesi (18:30)
 https://dlhd.dad/watch.php?id=76
 
 #EXTINF:-1 tvg-id="italyseriecravennavspontedera" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Pontedera (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Pontedera.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ravenna vs Pontedera (18:30)
@@ -43,9 +40,6 @@ https://dlhd.dad/watch.php?id=461
 
 #EXTINF:-1 tvg-id="ukchampionshipfinal" tvg-name="Snooker | UK Championship | Final (20:45)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Final (20:45)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldcupwomentremblantgiantslalomrun1" tvg-name="Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (16:45)" tvg-logo="https://www.turkey-visit.com/map/world/amp/world_map_with_countries.jpg" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Tremblant | Giant Slalom | Run 1 (16:45)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="worldcupthemanbeavercreekgiantslalomrun2" tvg-name="Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (21:45)" tvg-logo="https://www.turkey-visit.com/map/world/amp/world_map_with_countries.jpg" group-title="Eventi Live DLHD",Alpine Ski | World Cup | The Man Beaver Creek | Giant Slalom | Run 2 (21:45)
 https://dlhd.dad/watch.php?id=879
