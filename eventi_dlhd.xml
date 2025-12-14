@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaFreiburgvsBorussiaDortmund">
-    <display-name>Germany - Bundesliga : Freiburg vs Borussia Dortmund</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214163000 +0200" channel="GermanyBundesligaFreiburgvsBorussiaDortmund">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Germany - Bundesliga : Freiburg vs Borussia Dortmund.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214163000 +0200" stop="20251214183000 +0200" channel="GermanyBundesligaFreiburgvsBorussiaDortmund">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Freiburg vs Borussia Dortmund</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="GermanyBundesligaBayernMnchenvsMainz05">
     <display-name>Germany - Bundesliga : Bayern München vs Mainz 05</display-name>
   </channel>
@@ -185,18 +172,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">France - Ligue 1 : Olympique Marseille vs Monaco</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="IndividualcompetitionKlingentalHS140">
-    <display-name>Individual competition | Klingental HS140</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214163000 +0200" channel="IndividualcompetitionKlingentalHS140">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Individual competition | Klingental HS140.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214163000 +0200" stop="20251214183000 +0200" channel="IndividualcompetitionKlingentalHS140">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Individual competition | Klingental HS140</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
 </tv>
