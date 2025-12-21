@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligamainz05vsstpauli" tvg-name="All Soccer Events | Germany - Bundesliga : Mainz 05 vs St. Pauli (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mainz 05_vs_St. Pauli.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Mainz 05 vs St. Pauli (16:30)
-https://dlhd.dad/watch.php?id=460
-
 #EXTINF:-1 tvg-id="italyseriecnovaravsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Ospitaletto (18:30)" tvg-logo="https://www.albergoitalia.novara.it/wp-content/uploads/2020/07/Logo-g-Albergo-Italia-Novara.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs Ospitaletto (18:30)
 https://dlhd.dad/watch.php?id=14
 
@@ -47,7 +44,7 @@ https://dlhd.dad/watch.php?id=15
 #EXTINF:-1 tvg-id="italyseriecsiracusavstrapani1905" tvg-name="All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Siracusa_vs_Trapani 1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Siracusa vs Trapani 1905 (21:30)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyserieagenoavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Atalanta (21:45)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/atalanta-logo-png_seeklogo-503108.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Atalanta (21:45)
+#EXTINF:-1 tvg-id="italyserieagenoavsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Atalanta (21:45)" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/atalanta-logo-black-and-white.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Atalanta (21:45)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="scottishopenfinal" tvg-name="Snooker | Scottish Open | Final (20:45)" tvg-logo="https://asllearn.com/wp-content/uploads/2023/01/ASLlearnFinalLogo.png" group-title="Eventi Live DLHD",Snooker | Scottish Open | Final (20:45)
@@ -55,7 +52,4 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="top14bordeauxbeglesvstoulon" tvg-name="Rugby Union | Top 14 : Bordeaux Begles vs Toulon (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bordeaux Begles_vs_Toulon.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Bordeaux Begles vs Toulon (22:05)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="individualcompetitonengelberghs140" tvg-name="Ski Jumping | Individual competiton | Engelberg HS140 (16:45)" tvg-logo="https://ecommerce-image-catalog.s3.us-east-1.amazonaws.com/cristian/D1/Logo_D1_RGB.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competiton | Engelberg HS140 (16:45)
-https://dlhd.dad/watch.php?id=878
 
