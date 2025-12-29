@@ -36,19 +36,6 @@
     <desc lang="it">World Cup Toblach | Women's 10km Classic</desc>
     <category lang="it">Cross Country</category>
   </programme>
-  <channel id="X2OLoenhoutXOBadkamersTrophy">
-    <display-name>X2O Loenhout X?O Badkamers Trophy</display-name>
-  </channel>
-  <programme start="20251229000000 +0200" stop="20251229143000 +0200" channel="X2OLoenhoutXOBadkamersTrophy">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">X2O Loenhout X?O Badkamers Trophy.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251229143000 +0200" stop="20251229163000 +0200" channel="X2OLoenhoutXOBadkamersTrophy">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">X2O Loenhout X?O Badkamers Trophy</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="IndividualcompetitonOberstdorfHS137">
     <display-name>Individual competiton | Oberstdorf HS137</display-name>
   </channel>
