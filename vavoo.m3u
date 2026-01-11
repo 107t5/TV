@@ -163,8 +163,6 @@ https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
-#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
-https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="Altro",SUPER TV ARISTANIS
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="Altro",SUPER TV BRESCIA
@@ -443,8 +441,6 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -455,6 +451,8 @@ https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
 # MUSICA
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61Wa4RqJVJL.png" group-title="Musica",EURO INDIE MUSIC CHART TV
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
