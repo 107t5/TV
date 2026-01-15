@@ -25,8 +25,6 @@ https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
-https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -166,6 +164,8 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -374,6 +374,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&force
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
+https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
 #EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
@@ -724,7 +726,7 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="londonmastersquarterfinalafternoonsession" tvg-name="Snooker | London Masters | Quarter-Final | Afternoon Session (15:00)" tvg-logo="https://www.worldteamscrabble.com/wtsc.png" group-title="Eventi Live DLHD",Snooker | London Masters | Quarter-Final | Afternoon Session (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="londonmastersquarterfinaleveningsession" tvg-name="Snooker | London Masters | Quarter-Final | Evening Session (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230822/original/pngtree-tournament-quarter-finals-of-the-championship-table-on-sports-with-a-selection-of-the-finalists-and-the-winner-picture-image_8188120.png" group-title="Eventi Live DLHD",Snooker | London Masters | Quarter-Final | Evening Session (21:00)
+#EXTINF:-1 tvg-id="londonmastersquarterfinaleveningsession" tvg-name="Snooker | London Masters | Quarter-Final | Evening Session (21:00)" tvg-logo="https://www.worldteamscrabble.com/wtsc.png" group-title="Eventi Live DLHD",Snooker | London Masters | Quarter-Final | Evening Session (21:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ruhpoldingmensrelayworldcup" tvg-name="Biathlon | Ruhpolding | Men's Relay World Cup (15:15)" tvg-logo="https://assets.website-files.com/5b46eb3876d89c1dc05d5cc8/5fc114bbb30cf953127b00af_Bachmann_tiny.png" group-title="Eventi Live DLHD",Biathlon | Ruhpolding | Men's Relay World Cup (15:15)
