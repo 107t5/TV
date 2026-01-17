@@ -184,6 +184,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -376,8 +378,6 @@ https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
-https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -501,8 +501,6 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -735,7 +733,7 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriecbeneventovsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Benevento vs Virtus Casarano (15:30)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/benevento-calcio-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Benevento vs Virtus Casarano (15:30)
 https://dlhd.dad/watch.php?id=189
 
-#EXTINF:-1 tvg-id="italyserieaudinesevsinternazionale" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Internazionale (16:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230315/original/pngtree-international-womens-day-we-can-do-it-poster-strong-girl-symbol-png-image_8989810.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Internazionale (16:00)
+#EXTINF:-1 tvg-id="italyserieaudinesevsinternazionale" tvg-name="All Soccer Events | Italy - Serie A : Udinese vs Internazionale (16:00)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/F_-Inter_logo_new.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Udinese vs Internazionale (16:00)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvsstpauli" tvg-name="All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs St. Pauli (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund_vs_St. Pauli.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs St. Pauli (16:30)
@@ -812,9 +810,6 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="figureskatingeuropeanchampionshipssheffield2026freedance" tvg-name="Ice Skating | Figure Skating: European Championships - Sheffield 2026 free dance (20:30)" tvg-logo="https://www.usfigureskating.org/sites/default/files/styles/person_image_large/public/media-library/USFig-V-box.png?itok=4IGGx5AI" group-title="Eventi Live DLHD",Ice Skating | Figure Skating: European Championships - Sheffield 2026 free dance (20:30)
 https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="sapporomenshs137worldcupday1" tvg-name="Ski Jumping | Sapporo | Men's HS 137 World Cup | Day 1 (08:00)" tvg-logo="https://assets.mikmak.workers.dev/YPiqE0OpS4SD1loE952C_2.png" group-title="Eventi Live DLHD",Ski Jumping | Sapporo | Men's HS 137 World Cup | Day 1 (08:00)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="individualcompetitionzhangjiakouladies" tvg-name="Ski Jumping | Individual competition | Zhangjiakou Ladies (10:00)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Zhangjiakou Ladies (10:00)
 https://dlhd.dad/watch.php?id=878
