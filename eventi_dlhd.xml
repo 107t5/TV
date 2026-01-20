@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalyCoppaItaliaFemminileMilanvsFiorentina">
-    <display-name>Italy - Coppa Italia Femminile : Milan vs Fiorentina</display-name>
-  </channel>
-  <programme start="20260120000000 +0200" stop="20260120190000 +0200" channel="ItalyCoppaItaliaFemminileMilanvsFiorentina">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Coppa Italia Femminile : Milan vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260120190000 +0200" stop="20260120210000 +0200" channel="ItalyCoppaItaliaFemminileMilanvsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Coppa Italia Femminile : Milan vs Fiorentina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
-    <display-name>Europe - UEFA Champions League : Bodø / Glimt vs Manchester City</display-name>
-  </channel>
-  <programme start="20260120000000 +0200" stop="20260120194500 +0200" channel="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Europe - UEFA Champions League : Bodø / Glimt vs Manchester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260120194500 +0200" stop="20260120214500 +0200" channel="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Europe - UEFA Champions League : Bodø / Glimt vs Manchester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260120000000 +0200" stop="20260120194500 +0200" channel="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Europe - UEFA Champions League : Bodø / Glimt vs Manchester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260120194500 +0200" stop="20260120214500 +0200" channel="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Europe - UEFA Champions League : Bodø / Glimt vs Manchester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EuropeUEFAChampionsLeagueRealMadridvsMonaco">
     <display-name>Europe - UEFA Champions League : Real Madrid vs Monaco</display-name>
   </channel>
