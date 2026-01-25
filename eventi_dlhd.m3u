@@ -26,10 +26,10 @@ https://dlhd.dad/watch.php?id=16
 #EXTINF:-1 tvg-id="italyseriecascolivsperugia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Perugia (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Perugia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Perugia (15:30)
 https://dlhd.dad/watch.php?id=17
 
-#EXTINF:-1 tvg-id="italyseriecsorrentovssalernitana" tvg-name="Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)" tvg-logo="https://salernitana.b-cdn.net/wp-content/uploads/2024/07/spezia-2023-nb-750x752.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)
+#EXTINF:-1 tvg-id="italyseriecsorrentovssalernitana" tvg-name="Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Salernitana.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)
 https://dlhd.dad/watch.php?id=18
 
-#EXTINF:-1 tvg-id="italyseriecsorrentovssalernitana" tvg-name="Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)" tvg-logo="https://salernitana.b-cdn.net/wp-content/uploads/2024/07/spezia-2023-nb-750x752.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)
+#EXTINF:-1 tvg-id="italyseriecsorrentovssalernitana" tvg-name="Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Salernitana.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)
 https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italyserieccasertanavstrapani1905" tvg-name="Soccer | Italy - Serie C : Casertana vs Trapani 1905 (15:30)" tvg-logo="https://www.pennantsmuseum.com/wp-content/uploads/2023/10/00000_Stemma-F.C.-Trapani-1905.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Casertana vs Trapani 1905 (15:30)
@@ -101,16 +101,10 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriearomavsmilan" tvg-name="Soccer | Italy - Serie A : Roma vs Milan (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Roma vs Milan (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="australianopenround4day9" tvg-name="Tennis | Australian Open Round 4 | Day 9 (02:00)" tvg-logo="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/16db0f01adf864f5cd063e1f02371910.png" group-title="Eventi Live DLHD",Tennis | Australian Open Round 4 | Day 9 (02:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="australianopenround4day9" tvg-name="Tennis | Australian Open Round 4 | Day 9 (02:00)" tvg-logo="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/16db0f01adf864f5cd063e1f02371910.png" group-title="Eventi Live DLHD",Tennis | Australian Open Round 4 | Day 9 (02:00)
-https://dlhd.dad/watch.php?id=576
-
 #EXTINF:-1 tvg-id="slalomkitzbuehel" tvg-name="Alpine Ski | Slalom | Kitzbuehel (14:15)" tvg-logo="https://images.seeklogo.com/logo-png/12/2/slalom-logo-png_seeklogo-127846.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom | Kitzbuehel (14:15)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="women125kmmassstartcompetitionnovemesto" tvg-name="Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (18:30)" tvg-logo="https://iconape.com/wp-content/files/xe/308551/png/nk-krka-nove-mesto-logo.png" group-title="Eventi Live DLHD",Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (18:30)
+#EXTINF:-1 tvg-id="women125kmmassstartcompetitionnovemesto" tvg-name="Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (18:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (18:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldcupcompetitioningomsmens20kmclassicstylerace" tvg-name="Cross Country | World Cup competition in Goms men's 20 km classic style race (15:30)" tvg-logo="https://www.cisalpinaclassicrace.it/imgs/LOGO_BIANCO.png" group-title="Eventi Live DLHD",Cross Country | World Cup competition in Goms men's 20 km classic style race (15:30)
