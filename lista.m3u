@@ -489,6 +489,8 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://dlhd.dad/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -729,7 +731,7 @@ https://dlhd.dad/watch.php?id=15
 #EXTINF:-1 tvg-id="italyseriecnovaravspropatria" tvg-name="Soccer | Italy - Serie C : Novara vs Pro Patria (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Pro Patria.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Novara vs Pro Patria (15:30)
 https://dlhd.dad/watch.php?id=16
 
-#EXTINF:-1 tvg-id="italyseriecascolivsperugia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Perugia (15:30)" tvg-logo="https://www.fhs.it/wp-content/uploads/2023/06/ABITIAMO-INSIEME-ASCOLI-logo-orig.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Perugia (15:30)
+#EXTINF:-1 tvg-id="italyseriecascolivsperugia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Perugia (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Perugia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Perugia (15:30)
 https://dlhd.dad/watch.php?id=17
 
 #EXTINF:-1 tvg-id="italyseriecsorrentovssalernitana" tvg-name="Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)" tvg-logo="https://salernitana.b-cdn.net/wp-content/uploads/2024/07/spezia-2023-nb-750x752.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)
@@ -771,7 +773,7 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="italyseriecalcionevsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Alcione vs Dolomiti Bellunesi (18:30)" tvg-logo="https://www.alcionemilano.it/wp-content/uploads/2020/03/Senza-titolo-2.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Alcione vs Dolomiti Bellunesi (18:30)
 https://dlhd.dad/watch.php?id=15
 
-#EXTINF:-1 tvg-id="italyseriecpergolettesevsospitaletto" tvg-name="Soccer | Italy - Serie C : Pergolettese vs Ospitaletto (18:30)" tvg-logo="https://comofootball.com/wp-content/uploads/2019/07/pergolettese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pergolettese vs Ospitaletto (18:30)
+#EXTINF:-1 tvg-id="italyseriecpergolettesevsospitaletto" tvg-name="Soccer | Italy - Serie C : Pergolettese vs Ospitaletto (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_Ospitaletto.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pergolettese vs Ospitaletto (18:30)
 https://dlhd.dad/watch.php?id=16
 
 #EXTINF:-1 tvg-id="italyserieclivornovsvispesaro" tvg-name="Soccer | Italy - Serie C : Livorno vs Vis Pesaro (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Livorno_vs_Vis Pesaro.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Livorno vs Vis Pesaro (18:30)
@@ -816,7 +818,7 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="slalomkitzbuehel" tvg-name="Alpine Ski | Slalom | Kitzbuehel (14:15)" tvg-logo="https://images.seeklogo.com/logo-png/12/2/slalom-logo-png_seeklogo-127846.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom | Kitzbuehel (14:15)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="women125kmmassstartcompetitionnovemesto" tvg-name="Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (18:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (18:30)
+#EXTINF:-1 tvg-id="women125kmmassstartcompetitionnovemesto" tvg-name="Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (18:30)" tvg-logo="https://iconape.com/wp-content/files/xe/308551/png/nk-krka-nove-mesto-logo.png" group-title="Eventi Live DLHD",Biathlon | Women 12.5 km Mass Start Competition | Nove Mesto (18:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldcupcompetitioningomsmens20kmclassicstylerace" tvg-name="Cross Country | World Cup competition in Goms men's 20 km classic style race (15:30)" tvg-logo="https://www.cisalpinaclassicrace.it/imgs/LOGO_BIANCO.png" group-title="Eventi Live DLHD",Cross Country | World Cup competition in Goms men's 20 km classic style race (15:30)
