@@ -489,6 +489,8 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://dlhd.dad/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -729,12 +731,6 @@ https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="englandpremierleagueevertonvsleedsunited" tvg-name="Soccer | England - Premier League : Everton vs Leeds United (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Everton_vs_Leeds United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Everton vs Leeds United (22:00)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="australianopenquarterfinals" tvg-name="Tennis | Australian Open Quarter finals (02:00)" tvg-logo="https://www.aimfoe.com/wp-content/uploads/2023/03/the_finals__v2_2.png" group-title="Eventi Live DLHD",Tennis | Australian Open Quarter finals (02:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="australianopenquarterfinals" tvg-name="Tennis | Australian Open Quarter finals (02:00)" tvg-logo="https://www.aimfoe.com/wp-content/uploads/2023/03/the_finals__v2_2.png" group-title="Eventi Live DLHD",Tennis | Australian Open Quarter finals (02:00)
-https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="snookergermanmastersround1session1" tvg-name="Snooker | Snooker: German Masters Round 1, Session 1 (16:00)" tvg-logo="https://static.wixstatic.com/media/f2d1ec_86878bb98f94492da5466100849efc84~mv2.png/v1/fit/w_2500,h_1330,al_c/f2d1ec_86878bb98f94492da5466100849efc84~mv2.png" group-title="Eventi Live DLHD",Snooker | Snooker: German Masters Round 1, Session 1 (16:00)
 https://dlhd.dad/watch.php?id=878
