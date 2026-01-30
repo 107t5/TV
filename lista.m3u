@@ -227,8 +227,6 @@ https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
-#EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
-https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
 https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
@@ -441,8 +439,6 @@ https://dlhd.dad/watch.php?id=861
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (D)
 https://dlhd.dad/watch.php?id=859
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
-https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (D)
 https://dlhd.dad/watch.php?id=862
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
@@ -489,6 +485,8 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://dlhd.dad/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -517,8 +515,6 @@ https://dlhd.dad/watch.php?id=577
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (D)
 https://dlhd.dad/watch.php?id=460
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
-https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
 https://dlhd.dad/watch.php?id=575
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
@@ -723,14 +719,11 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriealaziovsgenoa" tvg-name="Soccer | Italy - Serie A : Lazio vs Genoa (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Genoa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Genoa (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="germanmastersquarterfinal" tvg-name="Snooker | German Masters Quarter-Final (15:00)" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Eventi Live DLHD",Snooker | German Masters Quarter-Final (15:00)
+#EXTINF:-1 tvg-id="germanmastersquarterfinal" tvg-name="Snooker | German Masters Quarter-Final (15:00)" tvg-logo="https://germandance.org/wp-content/uploads/2022/09/gdo.png" group-title="Eventi Live DLHD",Snooker | German Masters Quarter-Final (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="germanmastersquarterfinal" tvg-name="Snooker | German Masters Quarter-Final (21:00)" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Eventi Live DLHD",Snooker | German Masters Quarter-Final (21:00)
+#EXTINF:-1 tvg-id="germanmastersquarterfinal" tvg-name="Snooker | German Masters Quarter-Final (21:00)" tvg-logo="https://germandance.org/wp-content/uploads/2022/09/gdo.png" group-title="Eventi Live DLHD",Snooker | German Masters Quarter-Final (21:00)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldcupcompetitionincransmontanawomensdownhill" tvg-name="Alpine Ski | World Cup Competition in Crans-Montana Women's downhill (10:45)" tvg-logo="https://static.flashscore.com/res/image/data/r7yhPcV1-COlM8D6h.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Crans-Montana Women's downhill (10:45)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="seriea2pesarovsbrindisi" tvg-name="Basketball | Serie A2 : Pesaro vs Brindisi (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pesaro_vs_Brindisi.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Pesaro vs Brindisi (21:45)
 https://dlhd.dad/watch.php?id=882
@@ -747,7 +740,7 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="willingenmixedteamhs147worldcup" tvg-name="Ski Jumping | Willingen | Mixed Team HS 147 World Cup (17:00)" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png" group-title="Eventi Live DLHD",Ski Jumping | Willingen | Mixed Team HS 147 World Cup (17:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="seefeldwomenshs109worldcupday1" tvg-name="Winter Sports | Seefeld | Women's HS 109 World Cup | Day 1 (15:00)" tvg-logo="http://rosshuette.seefeld.com/Images/maintaince_desktop.png" group-title="Eventi Live DLHD",Winter Sports | Seefeld | Women's HS 109 World Cup | Day 1 (15:00)
+#EXTINF:-1 tvg-id="seefeldwomenshs109worldcupday1" tvg-name="Winter Sports | Seefeld | Women's HS 109 World Cup | Day 1 (15:00)" tvg-logo="https://static-new.lhw.com/-/media/Images/CRM/Hotels/40889_sacher-seefeld.png" group-title="Eventi Live DLHD",Winter Sports | Seefeld | Women's HS 109 World Cup | Day 1 (15:00)
 https://dlhd.dad/watch.php?id=878
 
 
