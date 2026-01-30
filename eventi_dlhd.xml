@@ -117,17 +117,4 @@
     <desc lang="it">European Championship Semi-final 2 : Denmark vs Iceland</desc>
     <category lang="it">Handball</category>
   </programme>
-  <channel id="WillingenMixedTeamHS147WorldCup">
-    <display-name>Willingen | Mixed Team HS 147 World Cup</display-name>
-  </channel>
-  <programme start="20260130000000 +0200" stop="20260130170000 +0200" channel="WillingenMixedTeamHS147WorldCup">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Willingen | Mixed Team HS 147 World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260130170000 +0200" stop="20260130190000 +0200" channel="WillingenMixedTeamHS147WorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Willingen | Mixed Team HS 147 World Cup</desc>
-    <category lang="it">Ski Jumping</category>
-  </programme>
 </tv>
