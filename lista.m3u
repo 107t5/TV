@@ -25,6 +25,8 @@ https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
+https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -164,8 +166,6 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -439,12 +439,16 @@ https://dlhd.dad/watch.php?id=861
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (D)
 https://dlhd.dad/watch.php?id=859
+#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
+https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (D)
 https://dlhd.dad/watch.php?id=862
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
+https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
@@ -722,13 +726,13 @@ https://dlhd.dad/watch.php?id=154
 #EXTINF:-1 tvg-id="italyserieccavesevsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Cavese vs Virtus Casarano (15:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cavese vs Virtus Casarano (15:30)
 https://dlhd.dad/watch.php?id=155
 
-#EXTINF:-1 tvg-id="italyseriecsorrentovscatania" tvg-name="All Soccer Events | Italy - Serie C : Sorrento vs Catania (15:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/calcio-catania-logo-black-and-white.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sorrento vs Catania (15:30)
+#EXTINF:-1 tvg-id="italyseriecsorrentovscatania" tvg-name="All Soccer Events | Italy - Serie C : Sorrento vs Catania (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sorrento vs Catania (15:30)
 https://dlhd.dad/watch.php?id=25
 
 #EXTINF:-1 tvg-id="italyseriecsorrentovscatania" tvg-name="All Soccer Events | Italy - Serie C : Sorrento vs Catania (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sorrento vs Catania (15:30)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyserieapisavssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Sassuolo (16:00)" tvg-logo="https://images.seeklogo.com/logo-png/38/3/us-sassuolo-calcio-logo-png_seeklogo-382997.png?v=1955330637314597368" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Sassuolo (16:00)
+#EXTINF:-1 tvg-id="italyserieapisavssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Sassuolo (16:00)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2021/06/Logo-Sassuolo-768x842.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Sassuolo (16:00)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="germanybundesligaeintrachtfrankfurtvsbayerleverkusen" tvg-name="All Soccer Events | Germany - Bundesliga : Eintracht Frankfurt vs Bayer Leverkusen (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eintracht Frankfurt_vs_Bayer Leverkusen.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Eintracht Frankfurt vs Bayer Leverkusen (16:30)
@@ -775,12 +779,6 @@ https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="englandpremierleagueliverpoolvsnewcastleunited" tvg-name="All Soccer Events | England - Premier League : Liverpool vs Newcastle United (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Newcastle United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Liverpool vs Newcastle United (22:00)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="australianopendoublesfinal" tvg-name="Tennis | Australian Open | Doubles – Final (01:00)" tvg-logo="https://pnggallery.com/wp-content/uploads/australian-open-stacked-logo-02.png" group-title="Eventi Live DLHD",Tennis | Australian Open | Doubles – Final (01:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="australianopendoublesfinal" tvg-name="Tennis | Australian Open | Doubles – Final (01:00)" tvg-logo="https://pnggallery.com/wp-content/uploads/australian-open-stacked-logo-02.png" group-title="Eventi Live DLHD",Tennis | Australian Open | Doubles – Final (01:00)
-https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="formulasequalificationsmiami" tvg-name="Motorsport | Formulas E Qualifications, Miami (16:30)" tvg-logo="https://logocreator.io/wp-content/uploads/2023/12/Miami.png" group-title="Eventi Live DLHD",Motorsport | Formulas E Qualifications, Miami (16:30)
 https://dlhd.dad/watch.php?id=879
