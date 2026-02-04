@@ -266,8 +266,6 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&force
 https://dlhd.dad/watch.php?id=882
 
 # FILM - SERIE TV
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a
 #EXTINF:-1 tvg-id="raisport+hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT+
 https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
 #EXTINF:-1 tvg-id="raisport+hd.it" tvg-name="RAI SPORT+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT+ (MPD)
@@ -391,6 +389,8 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -478,8 +478,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV
 https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
-#EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
-https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-name="TV 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8 (MPD)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
