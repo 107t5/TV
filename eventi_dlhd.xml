@@ -156,17 +156,4 @@
     <desc lang="it">Six Nations U20 : Italy U20 vs Scotland U20</desc>
     <category lang="it">Rugby Union</category>
   </programme>
-  <channel id="WinterOlympicsWinterGamesfromItaly">
-    <display-name>Winter Olympics Winter Games from Italy</display-name>
-  </channel>
-  <programme start="20260206000000 +0200" stop="20260206110000 +0200" channel="WinterOlympicsWinterGamesfromItaly">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Winter Olympics Winter Games from Italy.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260206110000 +0200" stop="20260206130000 +0200" channel="WinterOlympicsWinterGamesfromItaly">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winter Olympics Winter Games from Italy</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
 </tv>
