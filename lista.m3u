@@ -164,8 +164,10 @@ https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
 https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (1)
 https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
@@ -697,6 +699,8 @@ https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
+#EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
+https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (D)
 https://dlhd.dad/watch.php?id=863
 #EXTINF:-1 tvg-id="sky.crime.it" tvg-logo="" group-title="Film - Serie TV",SKY CRIME
@@ -1087,9 +1091,6 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="sixnationsu20italyu20vsscotlandu20" tvg-name="Rugby Union | Six Nations U20 : Italy U20 vs Scotland U20 (21:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy U20_vs_Scotland U20.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations U20 : Italy U20 vs Scotland U20 (21:15)
 https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="winterolympicswintergamesfromitaly" tvg-name="Winter Sports | Winter Olympics Winter Games from Italy (11:00)" tvg-logo="https://i.pinimg.com/originals/af/a2/bb/afa2bba58b5120e4b22ddc19f672bbd0.png" group-title="Eventi Live DLHD",Winter Sports | Winter Olympics Winter Games from Italy (11:00)
-https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Internazionale x Liverpool 21:00
