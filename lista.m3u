@@ -158,8 +158,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -749,9 +747,7 @@ https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
 https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 5 (2)
 https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (1)
-https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
@@ -882,8 +878,10 @@ https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="Altro",SUPER TV BRESCIA
 https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
-#EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
+#EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (1)
 https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
+#EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (2)
+https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 
 # FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="Altro",SUPERSIX LOMBARDIA
@@ -1075,7 +1073,7 @@ https://dlhd.dad/watch.php?id=181
 #EXTINF:-1 tvg-id="italyserieccrotonevsatalantaii" tvg-name="All Soccer Events | Italy - Serie C : Crotone vs Atalanta II (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Crotone vs Atalanta II (15:30)
 https://dlhd.dad/watch.php?id=180
 
-#EXTINF:-1 tvg-id="italyserieccasertanavsfoggia" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Foggia (15:30)" tvg-logo="https://smimgs.com/images/logos/clubs/866.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Foggia (15:30)
+#EXTINF:-1 tvg-id="italyserieccasertanavsfoggia" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Foggia (15:30)" tvg-logo="https://www.calciofoggia.it/wp-content/uploads/2019/08/1200px-Logo_Foggia_Calcio_Since_2017.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Foggia (15:30)
 https://dlhd.dad/watch.php?id=183
 
 #EXTINF:-1 tvg-id="italyseriecnovaravsunionbrescia" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Union Brescia (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_Union Brescia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs Union Brescia (15:30)
@@ -1117,10 +1115,10 @@ https://dlhd.dad/watch.php?id=106
 #EXTINF:-1 tvg-id="italyserieafiorentinavstorino" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Torino (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Torino (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="montpellieratpabudhabiwtaclujnapocawtaampostravawtaearlyrounds" tvg-name="Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)" tvg-logo="https://join.tapro.com/wp-content/uploads/2025/06/Rik-derks.png" group-title="Eventi Live DLHD",Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)
+#EXTINF:-1 tvg-id="montpellieratpabudhabiwtaclujnapocawtaampostravawtaearlyrounds" tvg-name="Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)" tvg-logo="https://styles.redditmedia.com/t5_3w9c7h/styles/communityIcon_npdtli3kcgrc1.png" group-title="Eventi Live DLHD",Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="judograndslamofparis2026" tvg-name="Combat sports | Judo Grand Slam of Paris 2026 (18:00)" tvg-logo="https://grandslam.blob.core.windows.net/documents/images/Events/Logos/4083-the-2026-grand-slam-softball-world-series.png?t=638961593985470000" group-title="Eventi Live DLHD",Combat sports | Judo Grand Slam of Paris 2026 (18:00)
+#EXTINF:-1 tvg-id="judograndslamofparis2026" tvg-name="Combat sports | Judo Grand Slam of Paris 2026 (18:00)" tvg-logo="https://d2gqo3h0psesgi.cloudfront.net/auto/grand-slam-pizza-5qvjcfgr-logo.png" group-title="Eventi Live DLHD",Combat sports | Judo Grand Slam of Paris 2026 (18:00)
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="worldgrandprixsemifinal" tvg-name="Snooker | World Grand Prix | Semi-Final (07:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | World Grand Prix | Semi-Final (07:00)
