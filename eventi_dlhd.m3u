@@ -2,18 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (03:54)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (03:54)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (03:54)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (03:54)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="winterolympics2026" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 (03:54)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/1200px-2026_Winter_Olympics_logo.svg.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 (03:54)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="winterolympics2026" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 (03:54)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/1200px-2026_Winter_Olympics_logo.svg.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 (03:54)
-https://dlhd.dad/watch.php?id=879
-
 #EXTINF:-1 tvg-id="italyserieabolognavsparma" tvg-name="Soccer | Italy - Serie A : Bologna vs Parma (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Parma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Bologna vs Parma (13:30)
 https://dlhd.dad/watch.php?id=877
 
@@ -56,7 +44,7 @@ https://dlhd.dad/watch.php?id=21
 #EXTINF:-1 tvg-id="englandpremierleaguebrightonamphovealbionvscrystalpalace" tvg-name="Soccer | England - Premier League : Brighton &amp; Hove Albion vs Crystal Palace (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brighton &amp; Hove Albion_vs_Crystal Palace.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Brighton &amp; Hove Albion vs Crystal Palace (16:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriealeccevsudinese" tvg-name="Soccer | Italy - Serie A : Lecce vs Udinese (16:00)" tvg-logo="https://i.pinimg.com/originals/b6/da/95/b6da957322d9d97bb6c5a47999ac7f7c.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Udinese (16:00)
+#EXTINF:-1 tvg-id="italyseriealeccevsudinese" tvg-name="Soccer | Italy - Serie A : Lecce vs Udinese (16:00)" tvg-logo="https://lecce.tuttogare.it/src/img/logo-srl-bianco.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Udinese (16:00)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="germanybundesligakölnvsrbleipzig" tvg-name="Soccer | Germany - Bundesliga : Köln vs RB Leipzig (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Köln_vs_RB Leipzig.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Köln vs RB Leipzig (16:30)
@@ -71,7 +59,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="italyseriecvicenzavsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Vicenza vs Dolomiti Bellunesi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Dolomiti Bellunesi.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Vicenza vs Dolomiti Bellunesi (18:30)
 https://dlhd.dad/watch.php?id=16
 
-#EXTINF:-1 tvg-id="italyseriecarezzovspianese" tvg-name="Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)" tvg-logo="https://logospng.org/download/arezzo/logo-arezzo-1536.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)
+#EXTINF:-1 tvg-id="italyseriecarezzovspianese" tvg-name="Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/33/3/ss-arezzo-1923-logo-png_seeklogo-338364.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)
 https://dlhd.dad/watch.php?id=21
 
 #EXTINF:-1 tvg-id="italyseriecpinetovsascoli" tvg-name="Soccer | Italy - Serie C : Pineto vs Ascoli (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pineto_vs_Ascoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pineto vs Ascoli (18:30)
