@@ -156,6 +156,8 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -438,8 +440,6 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 https://vavoo.to/vavoo-iptv/play/12325656817eefaf17ef24
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="Musica",RADIO 51
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
-https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
 #EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
 https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Altro",RADIONORBA TV
@@ -649,6 +649,8 @@ https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (2)
 https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (BACKUP)
+https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (D)
 https://dlhd.dad/watch.php?id=861
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (1)
@@ -1102,7 +1104,7 @@ https://dlhd.dad/watch.php?id=21
 #EXTINF:-1 tvg-id="englandpremierleaguebrightonamphovealbionvscrystalpalace" tvg-name="Soccer | England - Premier League : Brighton &amp; Hove Albion vs Crystal Palace (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brighton &amp; Hove Albion_vs_Crystal Palace.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Brighton &amp; Hove Albion vs Crystal Palace (16:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriealeccevsudinese" tvg-name="Soccer | Italy - Serie A : Lecce vs Udinese (16:00)" tvg-logo="https://i.pinimg.com/originals/b6/da/95/b6da957322d9d97bb6c5a47999ac7f7c.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Udinese (16:00)
+#EXTINF:-1 tvg-id="italyseriealeccevsudinese" tvg-name="Soccer | Italy - Serie A : Lecce vs Udinese (16:00)" tvg-logo="https://lecce.tuttogare.it/src/img/logo-srl-bianco.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lecce vs Udinese (16:00)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="germanybundesligakölnvsrbleipzig" tvg-name="Soccer | Germany - Bundesliga : Köln vs RB Leipzig (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Köln_vs_RB Leipzig.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Köln vs RB Leipzig (16:30)
@@ -1117,7 +1119,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="italyseriecvicenzavsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Vicenza vs Dolomiti Bellunesi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Dolomiti Bellunesi.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Vicenza vs Dolomiti Bellunesi (18:30)
 https://dlhd.dad/watch.php?id=16
 
-#EXTINF:-1 tvg-id="italyseriecarezzovspianese" tvg-name="Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/33/3/ss-arezzo-1923-logo-png_seeklogo-338364.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)
+#EXTINF:-1 tvg-id="italyseriecarezzovspianese" tvg-name="Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)" tvg-logo="https://logospng.org/download/arezzo/logo-arezzo-1536.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)
 https://dlhd.dad/watch.php?id=21
 
 #EXTINF:-1 tvg-id="italyseriecpinetovsascoli" tvg-name="Soccer | Italy - Serie C : Pineto vs Ascoli (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pineto_vs_Ascoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pineto vs Ascoli (18:30)
@@ -1150,14 +1152,8 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="worldgrandprixfinal" tvg-name="Snooker | World Grand Prix | Final (13:00)" tvg-logo="https://static.wikia.nocookie.net/the-world-grand-prix/images/e/e6/Site-logo.png/revision/latest?cb=20220102021838" group-title="Eventi Live DLHD",Snooker | World Grand Prix | Final (13:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="winterolympicgamesmilancortina2026alpineskiingwomensmeeting" tvg-name="Alpine Ski | Winter Olympic Games Milan-Cortina 2026: Alpine Skiing women's meeting (12:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Alpine Ski | Winter Olympic Games Milan-Cortina 2026: Alpine Skiing women's meeting (12:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="downhillalpineskiingwomenolympicgames" tvg-name="Alpine Ski | Downhill | Alpine skiing Women - Olympic Games (14:20)" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/downhilldevil-profile_image-42bb5d92b1461c43-300x300.png" group-title="Eventi Live DLHD",Alpine Ski | Downhill | Alpine skiing Women - Olympic Games (14:20)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldathleticsindoortourstagworldathleticsindoortourgold2026" tvg-name="Athletics | World Athletics Indoor Tour - Stag. World Athletics Indoor Tour Gold 2026 (12:00)" tvg-logo="https://www.samssocialmediaclub.com/wp-content/uploads/2023/04/Untitled-design-2023-03-31T081945.400.png" group-title="Eventi Live DLHD",Athletics | World Athletics Indoor Tour - Stag. World Athletics Indoor Tour Gold 2026 (12:00)
-https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="worldathleticsindoortourgold2026ep5" tvg-name="Athletics | World Athletics Indoor Tour Gold 2026 - Ep. 5 (19:00)" tvg-logo="https://sportsafrica.net/wp-content/uploads/2023/11/cropped-sportsafrica-favi-2.png" group-title="Eventi Live DLHD",Athletics | World Athletics Indoor Tour Gold 2026 - Ep. 5 (19:00)
 https://dlhd.dad/watch.php?id=462
@@ -1185,9 +1181,6 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea1womenscandicciwvsconeglianow" tvg-name="Volleyball | Serie A1 Women : Scandicci W vs Conegliano W (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Scandicci W_vs_Conegliano W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Scandicci W vs Conegliano W (18:00)
 https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="curlingmixeddoublesmatchnorwayczechrepublic" tvg-name="Winter Sports | Curling mixed doubles match: Norway - Czech Republic (11:05)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/cortina-world-mixed-doubles-curling-championship-logo.png" group-title="Eventi Live DLHD",Winter Sports | Curling mixed doubles match: Norway - Czech Republic (11:05)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="snowboardingmixedparallelgiantslalomfinal" tvg-name="Winter Sports | Snowboarding Mixed | Parallel Giant Slalom | Final (13:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/766/237/original/adidas-logo-adidas-icon-transparent-free-png.png" group-title="Eventi Live DLHD",Winter Sports | Snowboarding Mixed | Parallel Giant Slalom | Final (13:45)
 https://dlhd.dad/watch.php?id=878
