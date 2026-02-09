@@ -49,29 +49,6 @@
     <desc lang="it">Winter Olympic Games Milan-Cortina 2026: Alpine Skiing men's team combined slalom</desc>
     <category lang="it">Alpine Ski</category>
   </programme>
-  <channel id="OlympicGamesWomenJapanWvsItalyW">
-    <display-name>Olympic Games Women : Japan W vs Italy W</display-name>
-  </channel>
-  <programme start="20260209000000 +0200" stop="20260209131000 +0200" channel="OlympicGamesWomenJapanWvsItalyW">
-    <title lang="it">Inizia alle 13:10.</title>
-    <desc lang="it">Olympic Games Women : Japan W vs Italy W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260209131000 +0200" stop="20260209151000 +0200" channel="OlympicGamesWomenJapanWvsItalyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games Women : Japan W vs Italy W</desc>
-    <category lang="it">Olympic Games Women Ice Hockey</category>
-  </programme>
-  <programme start="20260209000000 +0200" stop="20260209131000 +0200" channel="OlympicGamesWomenJapanWvsItalyW">
-    <title lang="it">Inizia alle 13:10.</title>
-    <desc lang="it">Olympic Games Women : Japan W vs Italy W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260209131000 +0200" stop="20260209151000 +0200" channel="OlympicGamesWomenJapanWvsItalyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games Women : Japan W vs Italy W</desc>
-    <category lang="it">Olympic Games Women Ice Hockey</category>
-  </programme>
   <channel id="OlympicGamesWomenGermanyWvsFranceW">
     <display-name>Olympic Games Women : Germany W vs France W</display-name>
   </channel>
@@ -136,19 +113,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Winter Olympics Milan-Cortina 2026: First round of the normal hill competition.</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="FreestyleSkiingWomenSlopestyleFinal">
-    <display-name>Freestyle Skiing Women | Slopestyle | Final</display-name>
-  </channel>
-  <programme start="20260209000000 +0200" stop="20260209131500 +0200" channel="FreestyleSkiingWomenSlopestyleFinal">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">Freestyle Skiing Women | Slopestyle | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260209131500 +0200" stop="20260209151500 +0200" channel="FreestyleSkiingWomenSlopestyleFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Freestyle Skiing Women | Slopestyle | Final</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="LugeWomenSinglesRun1">
     <display-name>Luge Women | Singles | Run 1</display-name>
