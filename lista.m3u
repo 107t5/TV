@@ -381,8 +381,6 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
-https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -835,8 +833,6 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://dlhd.dad/watch.php?id=574
 
 # MEDIASET
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (1)
 https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (2)
@@ -1087,13 +1083,13 @@ https://dlhd.dad/watch.php?id=5
 #EXTINF:-1 tvg-id="italyseriecgubbiovsvispesaro" tvg-name="Soccer | Italy - Serie C : Gubbio vs Vis Pesaro (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Gubbio_vs_Vis Pesaro.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Gubbio vs Vis Pesaro (21:30)
 https://dlhd.dad/watch.php?id=10
 
-#EXTINF:-1 tvg-id="italyseriecpianesevsperugia" tvg-name="Soccer | Italy - Serie C : Pianese vs Perugia (21:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pianese vs Perugia (21:30)
+#EXTINF:-1 tvg-id="italyseriecpianesevsperugia" tvg-name="Soccer | Italy - Serie C : Pianese vs Perugia (21:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/1008279.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pianese vs Perugia (21:30)
 https://dlhd.dad/watch.php?id=11
 
-#EXTINF:-1 tvg-id="italyseriecternanavsravenna" tvg-name="Soccer | Italy - Serie C : Ternana vs Ravenna (21:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/liga-catarinense-de-futsal-logo-png_seeklogo-522808.png?v=1958563323069919616" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ternana vs Ravenna (21:30)
+#EXTINF:-1 tvg-id="italyseriecternanavsravenna" tvg-name="Soccer | Italy - Serie C : Ternana vs Ravenna (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Ravenna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ternana vs Ravenna (21:30)
 https://dlhd.dad/watch.php?id=6
 
-#EXTINF:-1 tvg-id="italyseriecternanavsravenna" tvg-name="Soccer | Italy - Serie C : Ternana vs Ravenna (21:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/liga-catarinense-de-futsal-logo-png_seeklogo-522808.png?v=1958563323069919616" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ternana vs Ravenna (21:30)
+#EXTINF:-1 tvg-id="italyseriecternanavsravenna" tvg-name="Soccer | Italy - Serie C : Ternana vs Ravenna (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Ravenna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ternana vs Ravenna (21:30)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="wta1000dohaatp500rotterdamabnamroopenatp250buenosairesatp500dallas" tvg-name="Tennis | WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas (12:00)" tvg-logo="https://tennisliveranking.oss-ap-southeast-1.aliyuncs.com/assets/img/logo800.png?t=20241030" group-title="Eventi Live DLHD",Tennis | WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas (12:00)
@@ -1108,7 +1104,7 @@ https://dlhd.dad/watch.php?id=577
 #EXTINF:-1 tvg-id="winterolympicsmilancortina2026womenssuperg" tvg-name="Alpine Ski | Winter Olympics Milan-Cortina 2026: Women's Super-G. (12:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Alpine Ski | Winter Olympics Milan-Cortina 2026: Women's Super-G. (12:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="crosscountryskiingwomen10kmfreestyle" tvg-name="Cross Country | Cross-country Skiing Women | 10km Freestyle (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cross Country | Cross-country Skiing Women | 10km Freestyle (14:00)
+#EXTINF:-1 tvg-id="crosscountryskiingwomen10kmfreestyle" tvg-name="Cross Country | Cross-country Skiing Women | 10km Freestyle (14:00)" tvg-logo="https://static.wixstatic.com/media/2b8b4e_297cc7adf14a484293b6f8f9be2871e7~mv2.png/v1/crop/x_0,y_34,w_1781,h_2052/fill/w_980,h_1129,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO 10KM CHAMPS ELYSEES 2025 FULFIL (1).png" group-title="Eventi Live DLHD",Cross Country | Cross-country Skiing Women | 10km Freestyle (14:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="olympicgameswomenfinlandwvscanadaw" tvg-name="Olympic Ice Hockey | Olympic Games Women : Finland W vs Canada W (15:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Finland W_vs_Canada W.png" group-title="Eventi Live DLHD",Olympic Ice Hockey | Olympic Games Women : Finland W vs Canada W (15:15)
