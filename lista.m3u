@@ -158,8 +158,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -745,8 +743,10 @@ https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
 https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 5 (2)
 https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (1)
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
+https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
@@ -777,8 +777,10 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -1078,12 +1080,6 @@ https://dlhd.dad/watch.php?id=7
 #EXTINF:-1 tvg-id="italyseriecvispesarovscampobasso" tvg-name="Soccer | Italy - Serie C : Vis Pesaro vs Campobasso (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vis Pesaro_vs_Campobasso.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Vis Pesaro vs Campobasso (21:30)
 https://dlhd.dad/watch.php?id=8
 
-#EXTINF:-1 tvg-id="delraybeachatpriodejaneiroatpdohaatpampdubaiwtaearlyrounds" tvg-name="Tennis | Delray Beach-ATP, Rio de Janeiro-ATP, Doha-ATP &amp; Dubai-WTA Early Rounds (09:00)" tvg-logo="https://static.flashscore.com/res/image/data/vw7es5V1-jJDZuUgC.png" group-title="Eventi Live DLHD",Tennis | Delray Beach-ATP, Rio de Janeiro-ATP, Doha-ATP &amp; Dubai-WTA Early Rounds (09:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="alpineskiingmenslalomrun1" tvg-name="Alpine Ski | Alpine Skiing Men | Slalom | Run 1 (10:30)" tvg-logo="https://static.flashscore.com/res/image/data/Yo1soYkd-C254YAUP.png" group-title="Eventi Live DLHD",Alpine Ski | Alpine Skiing Men | Slalom | Run 1 (10:30)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="alpineskiingmenslalomrun2" tvg-name="Alpine Ski | Alpine Skiing Men | Slalom | Run 2 (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/Yo1soYkd-C254YAUP.png" group-title="Eventi Live DLHD",Alpine Ski | Alpine Skiing Men | Slalom | Run 2 (14:00)
 https://dlhd.dad/watch.php?id=878
 
@@ -1122,12 +1118,6 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="winterolympicsmilancortina2026skijumpingseries1oftheduetcompetition" tvg-name="Ski Jumping | Winter Olympics Milan-Cortina 2026: Ski Jumping Series 1 of the duet competition (20:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Ski Jumping | Winter Olympics Milan-Cortina 2026: Ski Jumping Series 1 of the duet competition (20:00)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="curlingdenmarkgreatbritainwomenroundrobin" tvg-name="Winter Sports | Curling | Denmark - Great Britain Women | Round Robin (10:00)" tvg-logo="https://cdn.inksoft.com/images/publishers/11192/stores/cornwall_curling/img/logo.png" group-title="Eventi Live DLHD",Winter Sports | Curling | Denmark - Great Britain Women | Round Robin (10:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="bobsleightwomanbobsleighheat1" tvg-name="Winter Sports | Bobsleigh | Two-Man Bobsleigh | Heat 1 (11:00)" tvg-logo="http://vx-3.com/cdn/shop/files/British-Army-Bobsleigh-QZ.png?v=1744640022" group-title="Eventi Live DLHD",Winter Sports | Bobsleigh | Two-Man Bobsleigh | Heat 1 (11:00)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="bobsleighmen2manheat2" tvg-name="Winter Sports | Bobsleigh Men | 2-man | Heat 2 (13:00)" tvg-logo="https://ilcalcio.net/assets/b5/10/b510983bf7002dae82243476f0ae1fd2.png" group-title="Eventi Live DLHD",Winter Sports | Bobsleigh Men | 2-man | Heat 2 (13:00)
 https://dlhd.dad/watch.php?id=879
