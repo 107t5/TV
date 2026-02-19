@@ -156,8 +156,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
@@ -377,8 +375,6 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
-https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -651,7 +647,9 @@ https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
 https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (D)
 https://dlhd.dad/watch.php?id=861
-#EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION
+#EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (1)
+https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
+#EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (2)
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (D)
 https://dlhd.dad/watch.php?id=859
@@ -747,6 +745,8 @@ https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
+https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 8 (1)
@@ -1090,23 +1090,11 @@ https://dlhd.dad/watch.php?id=4
 #EXTINF:-1 tvg-id="uefaconferenceleaguejagielloniabiaystokvsfiorentina" tvg-name="Soccer | UEFA Conference League : Jagiellonia Białystok vs Fiorentina (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jagiellonia Białystok_vs_Fiorentina.png" group-title="Eventi Live DLHD",Soccer | UEFA Conference League : Jagiellonia Białystok vs Fiorentina (22:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="theplayerschampionshipquarterfinals" tvg-name="Snooker | The Players Championship Quarter finals (15:00)" tvg-logo="https://wabl.asn.au/wp-content/uploads/sites/4/2021/02/WABL-Logo-SingleColours-01-01-770x757.png" group-title="Eventi Live DLHD",Snooker | The Players Championship Quarter finals (15:00)
-https://dlhd.dad/watch.php?id=879
-
 #EXTINF:-1 tvg-id="theplayerschampionshipquarterfinals" tvg-name="Snooker | The Players Championship Quarter finals (21:00)" tvg-logo="https://wabl.asn.au/wp-content/uploads/sites/4/2021/02/WABL-Logo-SingleColours-01-01-770x757.png" group-title="Eventi Live DLHD",Snooker | The Players Championship Quarter finals (21:00)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="hautsdefrancepasdecalaistrophymeetingworldathleticsindoortour" tvg-name="Athletics | Hauts-de-France Pas-de-Calais Trophy Meeting - World Athletics Indoor Tour (21:30)" tvg-logo="https://www.samssocialmediaclub.com/wp-content/uploads/2023/04/Untitled-design-2023-03-31T081945.400.png" group-title="Eventi Live DLHD",Athletics | Hauts-de-France Pas-de-Calais Trophy Meeting - World Athletics Indoor Tour (21:30)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="tourofandalusiastage2mentorroxotura1388km" tvg-name="Cycling | Tour of Andalusia | Stage 2 Men | Torrox - Otura (138.8km) (15:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of Andalusia | Stage 2 Men | Torrox - Otura (138.8km) (15:00)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="olympicgameswomenswitzerlandwvsswedenw" tvg-name="Olympics Ice Hockey | Olympic Games Women : Switzerland W vs Sweden W (15:40)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland W_vs_Sweden W.png" group-title="Eventi Live DLHD",Olympics Ice Hockey | Olympic Games Women : Switzerland W vs Sweden W (15:40)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="olympicgameswomenswitzerlandwvsswedenw" tvg-name="Olympics Ice Hockey | Olympic Games Women : Switzerland W vs Sweden W (15:40)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland W_vs_Sweden W.png" group-title="Eventi Live DLHD",Olympics Ice Hockey | Olympic Games Women : Switzerland W vs Sweden W (15:40)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="olympicgameswomenusawvscanadaw" tvg-name="Olympics Ice Hockey | Olympic Games Women : USA W vs Canada W (20:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/USA W_vs_Canada W.png" group-title="Eventi Live DLHD",Olympics Ice Hockey | Olympic Games Women : USA W vs Canada W (20:10)
 https://dlhd.dad/watch.php?id=882
