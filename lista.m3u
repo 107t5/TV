@@ -270,7 +270,9 @@ https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
 https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (1)
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
@@ -1054,9 +1056,6 @@ https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="uefachampionsleaguenewcastleunitedvsqaraba" tvg-name="All Soccer Events | UEFA Champions League : Newcastle United vs Qarabağ (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Qarabağ.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Newcastle United vs Qarabağ (22:00)
 https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="welshopenround1day2afternoonsession" tvg-name="Snooker | Welsh Open Round 1 | Day 2 | Afternoon Session (15:00)" tvg-logo="https://139094872.cdn6.editmysite.com/uploads/1/3/9/0/139094872/TM2JOEYS2VXPH7AVM5IKST6V.png" group-title="Eventi Live DLHD",Snooker | Welsh Open Round 1 | Day 2 | Afternoon Session (15:00)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="welshopenround1day2eveningsession" tvg-name="Snooker | Welsh Open Round 1 | Day 2 | Evening Session (21:00)" tvg-logo="https://139094872.cdn6.editmysite.com/uploads/1/3/9/0/139094872/TM2JOEYS2VXPH7AVM5IKST6V.png" group-title="Eventi Live DLHD",Snooker | Welsh Open Round 1 | Day 2 | Evening Session (21:00)
 https://dlhd.dad/watch.php?id=878
