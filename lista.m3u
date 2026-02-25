@@ -391,8 +391,6 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -635,10 +633,8 @@ https://vavoo.to/vavoo-iptv/play/968665235fe574bf09dcb
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (1)
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC (1)
 https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC (2)
@@ -1069,7 +1065,7 @@ https://dlhd.dad/watch.php?id=158
 #EXTINF:-1 tvg-id="europeuefachampionsleaguerealmadridvsbenfica" tvg-name="All Soccer Events | Europe - UEFA Champions League : Real Madrid vs Benfica (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Real Madrid_vs_Benfica.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Real Madrid vs Benfica (22:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="welshopenround1day3afternoonsession" tvg-name="Snooker | Welsh Open Round 1 | Day 3 | Afternoon Session (15:00)" tvg-logo="https://files.constantcontact.com/d869527c301/6602b0ab-9113-4020-a5c3-2b5cbc992473.png?rdr=true" group-title="Eventi Live DLHD",Snooker | Welsh Open Round 1 | Day 3 | Afternoon Session (15:00)
+#EXTINF:-1 tvg-id="welshopenround1day3afternoonsession" tvg-name="Snooker | Welsh Open Round 1 | Day 3 | Afternoon Session (15:00)" tvg-logo="https://frame.twibbonize.com/159591b3-c1f1-4f5f-abe8-92b86409dbe5.png" group-title="Eventi Live DLHD",Snooker | Welsh Open Round 1 | Day 3 | Afternoon Session (15:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="welshopenround1day3eveningsession" tvg-name="Snooker | Welsh Open Round 1 | Day 3 | Evening Session (21:00)" tvg-logo="https://frame.twibbonize.com/159591b3-c1f1-4f5f-abe8-92b86409dbe5.png" group-title="Eventi Live DLHD",Snooker | Welsh Open Round 1 | Day 3 | Evening Session (21:00)
