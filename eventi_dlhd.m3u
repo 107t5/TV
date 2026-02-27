@@ -2,22 +2,22 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsnovara" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs Novara (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Novara.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Union ArzignanoChiampo vs Novara (21:30)
+#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsnovara" tvg-name="All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Novara (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Novara.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Novara (21:30)
 https://dlhd.dad/watch.php?id=76
 
-#EXTINF:-1 tvg-id="italyserieccittadellavsospitaletto" tvg-name="Soccer | Italy - Serie C : Cittadella vs Ospitaletto (21:30)" tvg-logo="https://iconape.com/wp-content/files/dp/322247/png/322247.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cittadella vs Ospitaletto (21:30)
+#EXTINF:-1 tvg-id="italyserieccittadellavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Cittadella vs Ospitaletto (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cittadella_vs_Ospitaletto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cittadella vs Ospitaletto (21:30)
 https://dlhd.dad/watch.php?id=77
 
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsprovercelli" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Pro Vercelli (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Pro Vercelli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Giana Erminio vs Pro Vercelli (21:30)
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovsprovercelli" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Pro Vercelli (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Pro Vercelli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Pro Vercelli (21:30)
 https://dlhd.dad/watch.php?id=86
 
-#EXTINF:-1 tvg-id="italyseriecpergolettesevstriestina" tvg-name="Soccer | Italy - Serie C : Pergolettese vs Triestina (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_Triestina.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pergolettese vs Triestina (21:30)
+#EXTINF:-1 tvg-id="italyseriecpergolettesevstriestina" tvg-name="All Soccer Events | Italy - Serie C : Pergolettese vs Triestina (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pergolettese_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pergolettese vs Triestina (21:30)
 https://dlhd.dad/watch.php?id=105
 
-#EXTINF:-1 tvg-id="italyserieaparmavscagliari" tvg-name="Soccer | Italy - Serie A : Parma vs Cagliari (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma_vs_Cagliari.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Parma vs Cagliari (21:45)
+#EXTINF:-1 tvg-id="italyserieaparmavscagliari" tvg-name="All Soccer Events | Italy - Serie A : Parma vs Cagliari (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma_vs_Cagliari.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Parma vs Cagliari (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsastonvilla" tvg-name="Soccer | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Aston Villa.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)
+#EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsastonvilla" tvg-name="All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds" tvg-name="Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)" tvg-logo="http://www.peakatp.com/wp-content/uploads/GNC_AMP_Triphase.png" group-title="Eventi Live DLHD",Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)
@@ -26,13 +26,13 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="moto3thailandsgppractice" tvg-name="Motorsport | Moto3 : Thailands GP Practice (08:10)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Thailands GP Practice (08:10)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto2thailandsgppractice" tvg-name="Motorsport | Moto2 : Thailands GP Practice (09:05)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Thailands GP Practice (09:05)
+#EXTINF:-1 tvg-id="moto2thailandsgppractice" tvg-name="Motorsport | Moto2 : Thailands GP Practice (09:05)" tvg-logo="https://www.gresiniracing.com/wp-content/uploads/2025/01/moto2-gresini-2025.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Thailands GP Practice (09:05)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="motogpthailandsgppractice" tvg-name="Motorsport | MotoGP : Thailands GP Practice (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Thailands GP Practice (10:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3thailandsgpfreepractice2" tvg-name="Motorsport | Moto3 : Thailands GP Free Practice 2 (03:30)" tvg-logo="https://png.pngtree.com/png-clipart/20240927/original/pngtree-celebration-2025-logo-png-image_16102829.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Thailands GP Free Practice 2 (03:30)
+#EXTINF:-1 tvg-id="moto3thailandsgpfreepractice2" tvg-name="Motorsport | Moto3 : Thailands GP Free Practice 2 (03:30)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Thailands GP Free Practice 2 (03:30)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="motogpthailandsgpfreepractice2ampqualifying" tvg-name="Motorsport | MotoGP : Thailands GP Free Practice 2 &amp; Qualifying (05:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Thailands GP Free Practice 2 &amp; Qualifying (05:00)
