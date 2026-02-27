@@ -142,7 +142,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="classica.hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CLA_HD_Logo-CENT-300ppi_CMYK.jpg" group-title="Altro",CLASSICA
 https://vavoo.to/vavoo-iptv/play/640609226bada55274ff
-#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL (1)
+https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL (2)
 https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV (1)
 https://vavoo.to/vavoo-iptv/play/1322483308506652cfc631
@@ -488,7 +490,9 @@ https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
+#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP (1)
+https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
+#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP (2)
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -1060,14 +1064,8 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsastonvilla" tvg-name="All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds" tvg-name="Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)" tvg-logo="http://www.peakatp.com/wp-content/uploads/GNC_AMP_Triphase.png" group-title="Eventi Live DLHD",Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)
+#EXTINF:-1 tvg-id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds" tvg-name="Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)" tvg-logo="https://www.catholicearlyedcare.qld.edu.au/wp-content/uploads/2024/06/ATP_CEEC_CLEAR_IS_0124_0147-CROP-555x555.png" group-title="Eventi Live DLHD",Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="moto2thailandsgppractice" tvg-name="Motorsport | Moto2 : Thailands GP Practice (09:05)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Thailands GP Practice (09:05)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="motogpthailandsgppractice" tvg-name="Motorsport | MotoGP : Thailands GP Practice (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/ecstar-suzuki-logo-png_seeklogo-335477.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Thailands GP Practice (10:00)
-https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="judotashkentgrandslamday1" tvg-name="Combat sports | Judo : Tashkent Grand Slam. Day 1 (14:00)" tvg-logo="http://vx-3.com/cdn/shop/collections/Worcester_Judo_Club_-_BADGE_2.png?v=1730205699" group-title="Eventi Live DLHD",Combat sports | Judo : Tashkent Grand Slam. Day 1 (14:00)
 https://dlhd.dad/watch.php?id=462
