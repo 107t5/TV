@@ -17,7 +17,7 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieacremonesevsmilan" tvg-name="Soccer | Italy - Serie A : Cremonese vs Milan (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cremonese vs Milan (13:30)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="italyseriecbravspianese" tvg-name="Soccer | Italy - Serie C : Bra vs Pianese (15:30)" tvg-logo="https://images.seeklogo.com/logo-png/26/3/rosy-bra-logo-png_seeklogo-264713.png?v=1962732713975212352" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Bra vs Pianese (15:30)
+#EXTINF:-1 tvg-id="italyseriecbravspianese" tvg-name="Soccer | Italy - Serie C : Bra vs Pianese (15:30)" tvg-logo="https://storage.googleapis.com/stu-bra-public-prod/theme/stemma-bra.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Bra vs Pianese (15:30)
 https://dlhd.dad/watch.php?id=2
 
 #EXTINF:-1 tvg-id="italyseriecvispesarovspontedera" tvg-name="Soccer | Italy - Serie C : Vis Pesaro vs Pontedera (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vis Pesaro_vs_Pontedera.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Vis Pesaro vs Pontedera (15:30)
@@ -59,7 +59,7 @@ https://dlhd.dad/watch.php?id=17
 #EXTINF:-1 tvg-id="italyserieatorinovslazio" tvg-name="Soccer | Italy - Serie A : Torino vs Lazio (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Lazio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Lazio (19:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsgubbio" tvg-name="Soccer | Italy - Serie C : Nuova Monterosi vs Gubbio (18:30)" tvg-logo="https://www.ilikegubbio.com/wp-content/uploads/2024/03/logo_gubbio_tourism.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Nuova Monterosi vs Gubbio (18:30)
+#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsgubbio" tvg-name="Soccer | Italy - Serie C : Nuova Monterosi vs Gubbio (18:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Nuova Monterosi vs Gubbio (18:30)
 https://dlhd.dad/watch.php?id=16
 
 #EXTINF:-1 tvg-id="italyseriecarezzovsravenna" tvg-name="Soccer | Italy - Serie C : Arezzo vs Ravenna (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Ravenna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Ravenna (18:30)
@@ -74,11 +74,8 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="italyseriearomavsjuventus" tvg-name="Soccer | Italy - Serie A : Roma vs Juventus (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Juventus.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Roma vs Juventus (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds" tvg-name="Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (15:00)" tvg-logo="https://www.catholicearlyedcare.qld.edu.au/wp-content/uploads/2024/06/ATP_CEEC_CLEAR_IS_0124_0147-CROP-555x555.png" group-title="Eventi Live DLHD",Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (15:00)
+#EXTINF:-1 tvg-id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds" tvg-name="Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (15:00)" tvg-logo="https://www.catholicearlyedcare.qld.edu.au/wp-content/uploads/2024/06/ATP_CEEC_COOMERA_0124_0084-CROP.png" group-title="Eventi Live DLHD",Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (15:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="moto2thailandsgprace" tvg-name="Motorsport | Moto2 : Thailands GP Race (08:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Thailands GP Race (08:00)
-https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="motogpthailandsgprace" tvg-name="Motorsport | MotoGP : Thailands GP Race (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Thailands GP Race (10:00)
 https://dlhd.dad/watch.php?id=575
