@@ -50,7 +50,7 @@ https://dlhd.dad/watch.php?id=2
 #EXTINF:-1 tvg-id="italyseriecsassaritorresvsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Sassari Torres vs Nuova Monterosi (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassari Torres_vs_Nuova Monterosi.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sassari Torres vs Nuova Monterosi (21:30)
 https://dlhd.dad/watch.php?id=155
 
-#EXTINF:-1 tvg-id="italyseriecravennavspianese" tvg-name="Soccer | Italy - Serie C : Ravenna vs Pianese (21:30)" tvg-logo="https://acerravenna.acquistitelematici.it/media/images/pittogramma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ravenna vs Pianese (21:30)
+#EXTINF:-1 tvg-id="italyseriecravennavspianese" tvg-name="Soccer | Italy - Serie C : Ravenna vs Pianese (21:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ravenna vs Pianese (21:30)
 https://dlhd.dad/watch.php?id=4
 
 #EXTINF:-1 tvg-id="italyseriecpinetovsforlì" tvg-name="Soccer | Italy - Serie C : Pineto vs Forlì (21:30)" tvg-logo="https://www.pineto.com/img/slider/bg/b1_lunik_logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pineto vs Forlì (21:30)
