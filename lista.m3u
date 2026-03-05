@@ -156,8 +156,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
@@ -379,6 +377,8 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
+https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -389,6 +389,8 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -701,8 +703,6 @@ https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.investigation.it" tvg-logo="" group-title="Altro",SKY INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1
-#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
-https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (1)
 https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (2)
@@ -747,9 +747,7 @@ https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
-https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (3)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 8 (1)
 https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
@@ -813,7 +811,9 @@ https://dlhd.dad/watch.php?id=575
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
+#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (1)
+https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
+#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
 https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
 https://dlhd.dad/watch.php?id=576
@@ -1051,7 +1051,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="italyserieclatinavssorrento" tvg-name="Soccer | Italy - Serie C : Latina vs Sorrento (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Sorrento.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Latina vs Sorrento (19:00)
 https://dlhd.dad/watch.php?id=1
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovssiracusa" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Siracusa (19:00)" tvg-logo="https://static-www.comune.siracusa.it/wp-content/uploads/2024/01/cropped-favicon-1.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Casarano vs Siracusa (19:00)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovssiracusa" tvg-name="Soccer | Italy - Serie C : Virtus Casarano vs Siracusa (19:00)" tvg-logo="https://www.garabatos.biz/wp-content/uploads/2020/06/marina-cafe-siracusa-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Casarano vs Siracusa (19:00)
 https://dlhd.dad/watch.php?id=4
 
 #EXTINF:-1 tvg-id="italyseriecpicernovsatalantaii" tvg-name="Soccer | Italy - Serie C : Picerno vs Atalanta II (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Picerno_vs_Atalanta II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Picerno vs Atalanta II (19:00)
@@ -1086,12 +1086,6 @@ https://dlhd.dad/watch.php?id=4
 
 #EXTINF:-1 tvg-id="italyseriecteamaltamuravsfoggia" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Foggia (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Team Altamura_vs_Foggia.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Foggia (21:30)
 https://dlhd.dad/watch.php?id=10
-
-#EXTINF:-1 tvg-id="2026bnpparibasopentennisatpwtafirstround" tvg-name="Tennis | 2026 BNP Paribas Open Tennis ATP/WTA First Round (05:00)" tvg-logo="https://assets.stickpng.com/images/626658201e92f9aac65b5bb4.png" group-title="Eventi Live DLHD",Tennis | 2026 BNP Paribas Open Tennis ATP/WTA First Round (05:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="formula3qatarairwaysaustraliangpqualifying" tvg-name="Motorsport | Formula 3 : Qatar Airways Australian GP - Qualifying (05:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 3 : Qatar Airways Australian GP - Qualifying (05:00)
-https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="europeanchampionshipwomenbosniaampherzegovinawvsitalyw" tvg-name="Handball | European Championship Women : Bosnia &amp; Herzegovina W vs Italy W (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bosnia &amp; Herzegovina W_vs_Italy W.png" group-title="Eventi Live DLHD",Handball | European Championship Women : Bosnia &amp; Herzegovina W vs Italy W (21:00)
 https://dlhd.dad/watch.php?id=460
