@@ -78,8 +78,6 @@ https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
-#EXTINF:-1 tvg-id="caccia.e.pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",CACCIA E PESCA
-https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
@@ -158,8 +156,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
@@ -1101,9 +1097,6 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldcupwomensenegalwvsitalyw" tvg-name="Basketball | World Cup Women : Senegal W vs Italy W (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Senegal W_vs_Italy W.png" group-title="Eventi Live DLHD",Basketball | World Cup Women : Senegal W vs Italy W (20:00)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="nbadenvernuggetsvsphiladelphia76ers" tvg-name="NBA | NBA : Denver Nuggets vs Philadelphia 76ers (04:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Denver Nuggets_vs_Philadelphia 76ers.png" group-title="Eventi Live DLHD",NBA | NBA : Denver Nuggets vs Philadelphia 76ers (04:00)
-https://dlhd.dad/watch.php?id=460
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Internazionale x Liverpool 21:00
