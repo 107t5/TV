@@ -162,8 +162,6 @@ https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -1062,7 +1060,7 @@ https://dlhd.dad/watch.php?id=4
 #EXTINF:-1 tvg-id="italyseriebpalermovsjuvestabia" tvg-name="All Soccer Events | Italy - Serie B : Palermo vs Juve Stabia (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Palermo_vs_Juve Stabia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Palermo vs Juve Stabia (20:00)
 https://dlhd.dad/watch.php?id=55
 
-#EXTINF:-1 tvg-id="italyseriebspeziavsempoli" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Empoli (21:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Spezia vs Empoli (21:00)
+#EXTINF:-1 tvg-id="italyseriebspeziavsempoli" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Empoli (21:00)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2021/04/inter-milan-logo-freelogovectors.net_-180x180.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Spezia vs Empoli (21:00)
 https://dlhd.dad/watch.php?id=69
 
 #EXTINF:-1 tvg-id="italyseriebmantovavscesena" tvg-name="All Soccer Events | Italy - Serie B : Mantova vs Cesena (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mantova_vs_Cesena.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Mantova vs Cesena (21:00)
@@ -1098,7 +1096,7 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="worldopenalicartervsmartinodonnell" tvg-name="Snooker | World Open : Ali Carter vs Martin O'Donnell (08:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ali Carter_vs_Martin O'Donnell.png" group-title="Eventi Live DLHD",Snooker | World Open : Ali Carter vs Martin O'Donnell (08:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldopenianburnsvsbarryhawkins" tvg-name="Snooker | World Open : Ian Burns vs Barry Hawkins (13:30)" tvg-logo="https://wpbsa.com/wp-content/uploads/Ian-Burns-copy-1200x1200.png" group-title="Eventi Live DLHD",Snooker | World Open : Ian Burns vs Barry Hawkins (13:30)
+#EXTINF:-1 tvg-id="worldopenianburnsvsbarryhawkins" tvg-name="Snooker | World Open : Ian Burns vs Barry Hawkins (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ian Burns_vs_Barry Hawkins.png" group-title="Eventi Live DLHD",Snooker | World Open : Ian Burns vs Barry Hawkins (13:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldcupwomensenegalwvsitalyw" tvg-name="Basketball | World Cup Women : Senegal W vs Italy W (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Senegal W_vs_Italy W.png" group-title="Eventi Live DLHD",Basketball | World Cup Women : Senegal W vs Italy W (20:00)
