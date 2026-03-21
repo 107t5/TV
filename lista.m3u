@@ -361,6 +361,8 @@ https://vavoo.to/vavoo-iptv/play/3344963942d5b8b48cdfe0
 https://vavoo.to/vavoo-iptv/play/215827632715f84c8de94
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",MARIA+VISION
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
+https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA (MPD)
@@ -393,8 +395,6 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -619,8 +619,6 @@ https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (2)
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
-
-# SPORT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTM TV
 https://vavoo.to/vavoo-iptv/play/2294009196bff728f2a31e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -729,8 +727,6 @@ https://vavoo.to/vavoo-iptv/play/310480937323455c2778b9
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 15
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 16
-https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 17
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2 (1)
@@ -984,8 +980,10 @@ https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film - Serie TV",TOP CRIME (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (1)
 https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (2)
+https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
@@ -1030,6 +1028,10 @@ https://vavoo.to/vavoo-iptv/play/797328723f4292436afc4
 https://vavoo.to/vavoo-iptv/play/3765504418d7a4047993c
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_VCO_Azzurra_TV.png" group-title="Altro",VCO AZZURRA TV
 https://vavoo.to/vavoo-iptv/play/20700707550e841728d807
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",VH1
+https://vavoo.to/vavoo-iptv/play/22376603018e09f8150d84
+
+# SPORT
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro",VIDEO NOVARA
 https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/videolina-it.png?raw=true" group-title="Altro",VIDEOLINA
@@ -1185,22 +1187,19 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="milanosanremowomengenovasanremo156km" tvg-name="Cycling | Milano-Sanremo Women | Genova - Sanremo (156km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Milano-Sanremo Women | Genova - Sanremo (156km) (13:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="leagueofnationsjumpingocala" tvg-name="Equestrian | League of Nations Jumping | Ocala (01:15)" tvg-logo="https://d2gqo3h0psesgi.cloudfront.net/auto/lechonera-ocala-93lfbjxr-logo.png" group-title="Eventi Live DLHD",Equestrian | League of Nations Jumping | Ocala (01:15)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="serieaeliterovigovspetrarcapadova" tvg-name="Rugby Union | Serie A Elite : Rovigo vs Petrarca Padova (15:00)" tvg-logo="https://www.prefissotelefonico.it/telefono.png" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Rovigo vs Petrarca Padova (15:00)
 https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="unitedrugbychampionshiptrevisovsospreys" tvg-name="Rugby Union | United Rugby Championship : Treviso vs Ospreys (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Treviso_vs_Ospreys.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Treviso vs Ospreys (17:00)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="vikersundwomenshs240skiflyingworldcupday1" tvg-name="Ski Jumping | Vikersund | Women's HS 240 Ski Flying World Cup | Day 1 (10:30)" tvg-logo="https://www.peercollective.com/images/our_vetting_process_quote_image.png" group-title="Eventi Live DLHD",Ski Jumping | Vikersund | Women's HS 240 Ski Flying World Cup | Day 1 (10:30)
+#EXTINF:-1 tvg-id="vikersundwomenshs240skiflyingworldcupday1" tvg-name="Ski Jumping | Vikersund | Women's HS 240 Ski Flying World Cup | Day 1 (10:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Vikersund_IF_logo.png/250px-Vikersund_IF_logo.png" group-title="Eventi Live DLHD",Ski Jumping | Vikersund | Women's HS 240 Ski Flying World Cup | Day 1 (10:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="vikersundmenshs240skiflyingworldcupday1" tvg-name="Ski Jumping | Vikersund | Men's HS 240 Ski Flying World Cup | Day 1 (17:45)" tvg-logo="https://www.peercollective.com/images/our_vetting_process_quote_image.png" group-title="Eventi Live DLHD",Ski Jumping | Vikersund | Men's HS 240 Ski Flying World Cup | Day 1 (17:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="premierpadelcancunt2026womenssemifinal1" tvg-name="Squash | Premier Padel Cancun (T2026): Women's Semifinal 1 (23:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/qFyTiTNfIoLRu-9avia4BwOkODE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/616/premier-padel-119e53.png" group-title="Eventi Live DLHD",Squash | Premier Padel Cancun (T2026): Women's Semifinal 1 (23:00)
+#EXTINF:-1 tvg-id="premierpadelcancunt2026womenssemifinal1" tvg-name="Squash | Premier Padel Cancun (T2026): Women's Semifinal 1 (23:00)" tvg-logo="https://logicall.com/wp-content/uploads/2024/09/NewsItems_1000x1000_Padel-3.png" group-title="Eventi Live DLHD",Squash | Premier Padel Cancun (T2026): Women's Semifinal 1 (23:00)
 https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="premierpadelcancunt2026menssemifinal1" tvg-name="Squash | Premier Padel Cancun (T2026): Men's Semifinal 1 (03:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/qFyTiTNfIoLRu-9avia4BwOkODE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/616/premier-padel-119e53.png" group-title="Eventi Live DLHD",Squash | Premier Padel Cancun (T2026): Men's Semifinal 1 (03:00)
@@ -1211,9 +1210,6 @@ https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="fisworldcupwinterbergparallelslalomhf" tvg-name="Winter Sports | FIS World Cup Winterberg | Parallel Slalom (H/F) (15:20)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Winter Sports | FIS World Cup Winterberg | Parallel Slalom (H/F) (15:20)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="curlingwomensemifinalworldchampionships" tvg-name="Winter Sports | Curling Women | Semi-Final | World Championships (00:00)" tvg-logo="https://production-gofan-assets.s3.amazonaws.com/uploads/school/logo/FL634/use this.png" group-title="Eventi Live DLHD",Winter Sports | Curling Women | Semi-Final | World Championships (00:00)
-https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Internazionale x Liverpool 21:00
