@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieacomovspisa" tvg-name="All Soccer Events | Italy - Serie A : Como vs Pisa (13:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Calcio_Como_-_logo_(Italy%2C_2019-).svg/3840px-Calcio_Como_-_logo_(Italy%2C_2019-).svg.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Como vs Pisa (13:30)
+#EXTINF:-1 tvg-id="italyserieacomovspisa" tvg-name="All Soccer Events | Italy - Serie A : Como vs Pisa (13:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/jg7ChWhHx9uMqs6/como-1907-2019-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Como vs Pisa (13:30)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyserieawomenfiorentinavsparma" tvg-name="All Soccer Events | Italy - Serie A (women) : Fiorentina vs Parma (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Parma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A (women) : Fiorentina vs Parma (13:30)
@@ -127,9 +127,6 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="top14bordeauxbeglesvsstadetoulousain" tvg-name="Rugby Union | Top 14 : Bordeaux Begles vs Stade Toulousain (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bordeaux Begles_vs_Stade Toulousain.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Bordeaux Begles vs Stade Toulousain (22:00)
 https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="individualcompetitionvikersundwomen" tvg-name="Ski Jumping | Individual competition | Vikersund Women (10:20)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Vikersund Women (10:20)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="individualcompetitionvikersundhs240" tvg-name="Ski Jumping | Individual competition | Vikersund HS240 (18:00)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Vikersund HS240 (18:00)
 https://dlhd.dad/watch.php?id=878
