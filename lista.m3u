@@ -381,8 +381,6 @@ https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -945,10 +943,8 @@ https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TG COM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (1)
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (2)
-https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME (1)
@@ -1033,33 +1029,6 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="theinternazionalibnlditaliaromeitalymay5172026" tvg-name="Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000002162/1746449340000367_ATP_Masters_1000_BNP_Paribas_Open_2025_GOB_Masthead_logo_HLTS.png?q=high" group-title="Eventi Live DLHD",Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="italyserieccataniavspicerno" tvg-name="All Soccer Events | Italy - Serie C : Catania vs Picerno (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Picerno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Catania vs Picerno (14:30)
-https://dlhd.dad/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyserieccataniavspicerno" tvg-name="All Soccer Events | Italy - Serie C : Catania vs Picerno (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Picerno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Catania vs Picerno (14:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavsbenevento" tvg-name="All Soccer Events | Italy - Serie C : Salernitana vs Benevento (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Benevento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Salernitana vs Benevento (14:30)
-https://dlhd.dad/watch.php?id=7
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavsbenevento" tvg-name="All Soccer Events | Italy - Serie C : Salernitana vs Benevento (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Benevento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Salernitana vs Benevento (14:30)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavsbenevento" tvg-name="All Soccer Events | Italy - Serie C : Salernitana vs Benevento (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Benevento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Salernitana vs Benevento (14:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecaudacecerignolavslatina" tvg-name="All Soccer Events | Italy - Serie C : Audace Cerignola vs Latina (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Audace Cerignola_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Audace Cerignola vs Latina (14:30)
-https://dlhd.dad/watch.php?id=8
-
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovspotenzacalcio" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Potenza Calcio (14:30)" tvg-logo="https://www.potenzacalcio.net/wp-content/uploads/2021/11/cropped-pic.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Potenza Calcio (14:30)
-https://dlhd.dad/watch.php?id=9
-
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsdolomitibellunesi" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Dolomiti Bellunesi (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Dolomiti Bellunesi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Dolomiti Bellunesi (14:30)
-https://dlhd.dad/watch.php?id=10
-
-#EXTINF:-1 tvg-id="italyseriecpropatriavstriestina" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Triestina (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Triestina (14:30)
-https://dlhd.dad/watch.php?id=11
-
 #EXTINF:-1 tvg-id="italyseriealeccevsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Atalanta (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Atalanta (15:00)
 https://dlhd.dad/watch.php?id=877
 
@@ -1081,10 +1050,10 @@ https://dlhd.dad/watch.php?id=105
 #EXTINF:-1 tvg-id="italyseriebsampdoriavsempoli" tvg-name="All Soccer Events | Italy - Serie B : Sampdoria vs Empoli (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sampdoria_vs_Empoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Sampdoria vs Empoli (17:15)
 https://dlhd.dad/watch.php?id=55
 
-#EXTINF:-1 tvg-id="italyseriecalbinoleffevspergolettese" tvg-name="All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/unione-calcio-albinoleffe-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)
+#EXTINF:-1 tvg-id="italyseriecalbinoleffevspergolettese" tvg-name="All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/10/Unione-Calcio-Albinoleffe-Logo-Vector.svg--281x300.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)
 https://dlhd.dad/watch.php?id=6
 
-#EXTINF:-1 tvg-id="italyseriecalbinoleffevspergolettese" tvg-name="All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/unione-calcio-albinoleffe-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)
+#EXTINF:-1 tvg-id="italyseriecalbinoleffevspergolettese" tvg-name="All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/10/Unione-Calcio-Albinoleffe-Logo-Vector.svg--281x300.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="italyseriecvirtusveronavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Ospitaletto (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Ospitaletto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Ospitaletto (17:30)
@@ -1099,14 +1068,11 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Genoa.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriebcarraresevsspezia" tvg-name="All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)" tvg-logo="https://d5rzfs5ck83rq.cloudfront.net/legab.it/img/club/loghi/reggiana_2025.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)
+#EXTINF:-1 tvg-id="italyseriebcarraresevsspezia" tvg-name="All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)" tvg-logo="https://www.palermomania.com/wp-content/uploads/2023/09/Logo-palermomania_PAYOFF-e1694985200574.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)
 https://dlhd.dad/watch.php?id=68
 
 #EXTINF:-1 tvg-id="italyserieanapolivsmilan" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Milan (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Milan.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Milan (20:45)
 https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="mouscronroundwomenmouscron125km" tvg-name="Cycling | Mouscron Round Women | Mouscron (125km) (13:30)" tvg-logo="https://smartislandmaps.pr.gov/_next/static/media/logo-white.6e52aa8e.png" group-title="Eventi Live DLHD",Cycling | Mouscron Round Women | Mouscron (125km) (13:30)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="itzuliabasquecountrystage1menbilbaoitt139km" tvg-name="Cycling | Itzulia Basque Country | Stage 1 Men | Bilbao (ITT, 13.9km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Itzulia Basque Country | Stage 1 Men | Bilbao (ITT, 13.9km) (15:30)
 https://dlhd.dad/watch.php?id=878
