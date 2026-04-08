@@ -220,8 +220,6 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -691,6 +689,8 @@ https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.investigation.it" tvg-logo="" group-title="Altro",SKY INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1
+#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
+https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (1)
 https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (2)
@@ -1024,21 +1024,6 @@ https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
 # MEDIASET
-
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="uefachampionsleaguesportingcpvsarsenal" tvg-name="All Soccer Events | UEFA Champions League : Sporting CP vs Arsenal (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sporting CP_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Sporting CP vs Arsenal (21:00)
-https://dlhd.dad/watch.php?id=14
-
-#EXTINF:-1 tvg-id="uefachampionsleaguesportingcpvsarsenal" tvg-name="All Soccer Events | UEFA Champions League : Sporting CP vs Arsenal (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sporting CP_vs_Arsenal.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Sporting CP vs Arsenal (21:00)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="uefachampionsleaguerealmadridvsbayernmünchen" tvg-name="All Soccer Events | UEFA Champions League : Real Madrid vs Bayern München (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Real Madrid_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Real Madrid vs Bayern München (21:00)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="uefachampionsleaguerealmadridvsbayernmünchen" tvg-name="All Soccer Events | UEFA Champions League : Real Madrid vs Bayern München (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Real Madrid_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Real Madrid vs Bayern München (21:00)
-https://dlhd.dad/watch.php?id=16
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Internazionale x Liverpool 21:00
