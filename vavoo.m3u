@@ -11,8 +11,6 @@ https://vavoo.to/vavoo-iptv/play/178775175831e62385f371
 https://vavoo.to/vavoo-iptv/play/3701871205057c15adedda
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/3zkPKViC7G2rHWbBpYzSL6dFM9OMFBqIC6JrT-mM73EQsERHMqx4sPzWpBD8nfEqgf_uSHi124Y=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",A3
 https://vavoo.to/vavoo-iptv/play/445158856541438cd842a
-#EXTINF:-1 tvg-id="almatv.it" tvg-logo="" group-title="Altro",ALMA TV
-https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Altro",ANIMAL PLANET
@@ -25,10 +23,10 @@ https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BBC TOP GEAR ITALY
 https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
+https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
-#EXTINF:-1 tvg-id="bike.it" tvg-logo="" group-title="Altro",BIKE
-https://vavoo.to/vavoo-iptv/play/309589541224b3a9c5030f
 #EXTINF:-1 tvg-id="blaze.it" tvg-logo="" group-title="Altro",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -169,6 +167,8 @@ https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
@@ -597,6 +597,8 @@ https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
+#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
+https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -641,7 +643,9 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
-#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
+#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC (1)
+https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
+#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC (2)
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (1)
 https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee
