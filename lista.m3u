@@ -252,6 +252,8 @@ https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
 https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",FRANCE 24 (EN)
+https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 #EXTINF:-1 tvg-id="frisbee.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png" group-title="Bambini",FRISBEE
 https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905
 #EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
@@ -641,10 +643,6 @@ https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (D)
 https://dlhd.dad/watch.php?id=859
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (1)
-https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (2)
-https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (D)
 https://dlhd.dad/watch.php?id=862
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA
@@ -1026,16 +1024,16 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebmonzavsmodena" tvg-name="Soccer | Italy - Serie B : Monza vs Modena (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monza_vs_Modena.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Monza vs Modena (19:00)
+#EXTINF:-1 tvg-id="italyseriebmonzavsmodena" tvg-name="All Soccer Events | Italy - Serie B : Monza vs Modena (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monza_vs_Modena.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Monza vs Modena (19:00)
 https://dlhd.dad/watch.php?id=55
 
-#EXTINF:-1 tvg-id="italyserieanapolivscremonese" tvg-name="Soccer | Italy - Serie A : Napoli vs Cremonese (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Cremonese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Napoli vs Cremonese (20:45)
+#EXTINF:-1 tvg-id="italyserieanapolivscremonese" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Cremonese (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Cremonese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Cremonese (20:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="englandpremierleaguesunderlandvsnottinghamforest" tvg-name="Soccer | England - Premier League : Sunderland vs Nottingham Forest (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Sunderland vs Nottingham Forest (21:00)
+#EXTINF:-1 tvg-id="englandpremierleaguesunderlandvsnottinghamforest" tvg-name="All Soccer Events | England - Premier League : Sunderland vs Nottingham Forest (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sunderland_vs_Nottingham Forest.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Sunderland vs Nottingham Forest (21:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriebavellinovsbari1908" tvg-name="Soccer | Italy - Serie B : Avellino vs Bari 1908 (21:00)" tvg-logo="https://static.miraheze.org/nonciclopediawiki/thumb/2/26/Bari-Stemma.png/200px-Bari-Stemma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Avellino vs Bari 1908 (21:00)
+#EXTINF:-1 tvg-id="italyseriebavellinovsbari1908" tvg-name="All Soccer Events | Italy - Serie B : Avellino vs Bari 1908 (21:00)" tvg-logo="https://static.miraheze.org/nonciclopediawiki/thumb/2/26/Bari-Stemma.png/200px-Bari-Stemma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Avellino vs Bari 1908 (21:00)
 https://dlhd.dad/watch.php?id=108
 
 #EXTINF:-1 tvg-id="2026mutuamadridopentennisatpwta2ndround" tvg-name="Tennis | 2026 Mutua Madrid Open Tennis ATP/WTA 2nd Round (11:00)" tvg-logo="https://ticketworldonline.com/wp-content/uploads/2024/11/dubai-duty-free-300x300.png" group-title="Eventi Live DLHD",Tennis | 2026 Mutua Madrid Open Tennis ATP/WTA 2nd Round (11:00)
