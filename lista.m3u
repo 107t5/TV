@@ -45,6 +45,8 @@ https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
+https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BBC TOP GEAR ITALY
 https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/bellaradio.it/wp-content/uploads/2020/01/Bella-2020-3.png?fit=3000%2C3000&ssl=1" group-title="Musica",BELLA RADIO TV
@@ -216,6 +218,8 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -665,9 +669,7 @@ https://dlhd.dad/watch.php?id=864
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
@@ -1020,13 +1022,10 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="atpquarterfinal1amp2wtaquarterfinal3amp4wtadoublesquarterfinalsatpdoubles2ndround" tvg-name="Tennis | ATP Quarterfinal 1 &amp; 2; WTA Quarterfinal 3 &amp; 4; WTA Doubles Quarterfinals; ATP Doubles 2nd Round (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/lbPCodmd-SpnSYdGB.png" group-title="Eventi Live DLHD",Tennis | ATP Quarterfinal 1 &amp; 2; WTA Quarterfinal 3 &amp; 4; WTA Doubles Quarterfinals; ATP Doubles 2nd Round (13:00)
-https://dlhd.dad/watch.php?id=576
-
 #EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker : Quarter-final (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Quarter-final (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker : Quarter-final (19:30)" tvg-logo="https://images.launchbox-app.com/7ce3c574-4756-4b7f-9cf0-9516ac0b2178.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Quarter-final (19:30)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerquarterfinal" tvg-name="Snooker | World Championship Snooker : Quarter-final (19:30)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Quarter-final (19:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="tourderomandiestage1menmartigny1712km" tvg-name="Cycling | Tour de Romandie | Stage 1 Men | Martigny (171.2km) (15:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour de Romandie | Stage 1 Men | Martigny (171.2km) (15:30)
