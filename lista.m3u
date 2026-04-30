@@ -669,9 +669,7 @@ https://dlhd.dad/watch.php?id=864
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
@@ -1039,10 +1037,7 @@ https://dlhd.dad/watch.php?id=15
 #EXTINF:-1 tvg-id="europeuefaconferenceleagueshakhtardonetskvscrystalpalace" tvg-name="Soccer | Europe - UEFA Conference League : Shakhtar Donetsk vs Crystal Palace (21:00)" tvg-logo="https://logodix.com/logo/53096.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Conference League : Shakhtar Donetsk vs Crystal Palace (21:00)
 https://dlhd.dad/watch.php?id=18
 
-#EXTINF:-1 tvg-id="atpquarterfinal3amp4wtasemifinalsatpdoublesquarterfinals" tvg-name="Tennis | ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Quarterfinals (11:00)" tvg-logo="https://live-tennis.eu/ltr_logo.png" group-title="Eventi Live DLHD",Tennis | ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Quarterfinals (11:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="worldchampionshipsnookersemifinals" tvg-name="Snooker | World Championship Snooker : Semi-Finals (15:00)" tvg-logo="https://images.volleyballworld.com/image/upload/assets/competition-logos/Events 2025/Volleyball/Women’s World Championship/VWC-W-THA2025-Square.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Semi-Finals (15:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookersemifinals" tvg-name="Snooker | World Championship Snooker : Semi-Finals (15:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Semi-Finals (15:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldchampionshipsnookersemifinals" tvg-name="Snooker | World Championship Snooker : Semi-Finals (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Semi-Finals (20:00)
