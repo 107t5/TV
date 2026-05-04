@@ -222,8 +222,6 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mp
 https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
-https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",EXTRA TV
@@ -268,9 +266,7 @@ https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
-https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (1)
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
@@ -1130,7 +1126,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="atpromejuancarlosmartínmanzanovstitouandroguet" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Juan Carlos Martín Manzano vs 🇫🇷 Titouan Droguet (13:00)" tvg-logo="https://jm-asesores.es/wp-content/uploads/elementor/thumbs/juan-carlos-manzano-asesor-q8snnc9748zxfs1e6zz5mk4ltfj3op4xqkkg1aygzs.png" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇪🇸 Juan Carlos Martín Manzano vs 🇫🇷 Titouan Droguet (13:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="atpromeandreapellegrinovshugogaston" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)
+#EXTINF:-1 tvg-id="atpromeandreapellegrinovshugogaston" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)" tvg-logo="http://us.store.sanpellegrino.com/cdn/shop/files/STICKERSLOGOSPWhite.png?v=1702086483" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)
 https://dlhd.dad/watch.php?id=461
 
 #EXTINF:-1 tvg-id="atpromeandreapellegrinovshugogaston" tvg-name="Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)" group-title="Eventi Live DLHD",Tennis ATP – Rome (Qualification - Clay) – Singles | ATP – Rome : 🇮🇹 Andrea Pellegrino vs 🇫🇷 Hugo Gaston (13:00)
@@ -1253,7 +1249,7 @@ https://dlhd.dad/watch.php?id=576
 #EXTINF:-1 tvg-id="wtaromekimberlybirrellvsyuanyue" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202301/17/kbirrell.png?itok=BZRoXd5q" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="wtaromekimberlybirrellvsyuanyue" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202301/17/kbirrell.png?itok=BZRoXd5q" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)
+#EXTINF:-1 tvg-id="wtaromekimberlybirrellvsyuanyue" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)" tvg-logo="https://ausopen.com/themes/custom/ausopen_official/images/modal/modal-supplementary.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇦🇺 Kimberly Birrell vs 🇨🇳 Yuan Yue (13:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="wtaromealinakorneevavsellaseidel" tvg-name="Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Alina Korneeva vs 🇩🇪 Ella Seidel (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇷🇺 Alina Korneeva_vs_🇩🇪 Ella Seidel.png" group-title="Eventi Live DLHD",Tennis WTA – Rome (Qualification - Clay) – Singles | WTA – Rome : 🇷🇺 Alina Korneeva vs 🇩🇪 Ella Seidel (13:00)
@@ -1339,9 +1335,6 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (19:30)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (19:30)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="thewomenstourstage2lobiossancibraodasviñas109km" tvg-name="Cycling | The Women's Tour Stage 2 | Lobios - San Cibrao das Viñas (109km) (06:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | The Women's Tour Stage 2 | Lobios - San Cibrao das Viñas (109km) (06:30)
-https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Internazionale x Liverpool 21:00
